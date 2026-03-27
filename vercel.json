@@ -1,0 +1,10 @@
+{
+  "framework": "nextjs",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/$1",
+      "has": [{ "type": "host", "value": "(?<subdomain>.+)\\.bragging-rights\\.com" }]
+    }
+  ]
+}
