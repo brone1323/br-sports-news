@@ -1,0 +1,627 @@
+[
+  {
+    "slug": "nhl-anaheim-ducks",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-arizona-coyotes",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-boston-bruins",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-buffalo-sabres",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-calgary-flames",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-carolina-hurricanes",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-chicago-blackhawks",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-colorado-avalanche",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-columbus-blue-jackets",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-dallas-stars",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-detroit-red-wings",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-edmonton-oilers",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-florida-panthers",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-los-angeles-kings",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-minnesota-wild",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-montreal-canadiens",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-nashville-predators",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-new-jersey-devils",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-new-york-islanders",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-new-york-rangers",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-ottawa-senators",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-philadelphia-flyers",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-pittsburgh-penguins",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-san-jose-sharks",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-seattle-kraken",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-st-louis-blues",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-tampa-bay-lightning",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-toronto-maple-leafs",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-utah-hockey-club",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-vancouver-canucks",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-vegas-golden-knights",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-washington-capitals",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nhl-winnipeg-jets",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-arizona-cardinals",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-atlanta-falcons",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-baltimore-ravens",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-buffalo-bills",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-carolina-panthers",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-chicago-bears",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-cincinnati-bengals",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-cleveland-browns",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-dallas-cowboys",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-denver-broncos",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-detroit-lions",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-green-bay-packers",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-houston-texans",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-indianapolis-colts",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-jacksonville-jaguars",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-kansas-city-chiefs",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-las-vegas-raiders",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-los-angeles-chargers",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-los-angeles-rams",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-miami-dolphins",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-minnesota-vikings",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-new-england-patriots",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-new-orleans-saints",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-new-york-giants",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-new-york-jets",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-philadelphia-eagles",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-pittsburgh-steelers",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-san-francisco-49ers",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-seattle-seahawks",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-tampa-bay-buccaneers",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-tennessee-titans",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nfl-washington-commanders",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-atlanta-hawks",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-boston-celtics",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-brooklyn-nets",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-charlotte-hornets",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-chicago-bulls",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-cleveland-cavaliers",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-dallas-mavericks",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-denver-nuggets",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-detroit-pistons",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-golden-state-warriors",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-houston-rockets",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-indiana-pacers",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-los-angeles-clippers",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-los-angeles-lakers",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-memphis-grizzlies",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-miami-heat",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-milwaukee-bucks",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-minnesota-timberwolves",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-new-orleans-pelicans",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-new-york-knicks",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-oklahoma-city-thunder",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-orlando-magic",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-philadelphia-76ers",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-phoenix-suns",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-portland-trail-blazers",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-sacramento-kings",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-san-antonio-spurs",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-toronto-raptors",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-utah-jazz",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "nba-washington-wizards",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-arizona-diamondbacks",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-atlanta-braves",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-baltimore-orioles",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-boston-red-sox",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-chicago-cubs",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-chicago-white-sox",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-cincinnati-reds",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-cleveland-guardians",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-colorado-rockies",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-detroit-tigers",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-houston-astros",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-kansas-city-royals",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-los-angeles-angels",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-los-angeles-dodgers",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-miami-marlins",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-milwaukee-brewers",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-minnesota-twins",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-new-york-mets",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-new-york-yankees",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-oakland-athletics",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-philadelphia-phillies",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-pittsburgh-pirates",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-san-diego-padres",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-san-francisco-giants",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-seattle-mariners",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-st-louis-cardinals",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-tampa-bay-rays",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-texas-rangers",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-toronto-blue-jays",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "mlb-washington-nationals",
+    "pageId": "",
+    "pageAccessToken": ""
+  }
+]
