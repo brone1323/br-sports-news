@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import { getAllTeams, getTeamsByLeague } from '@/lib/teams'
 
 const LEAGUES = ['NHL', 'NFL', 'NBA', 'MLB']
@@ -74,15 +75,25 @@ export default function HomePage() {
                         style={{ backgroundColor: team.primaryColor }}
                       />
                       <div className="p-3">
-                        <div
-                          className="w-8 h-8 rounded-full flex items-center justify-center text-xs font-black mb-2"
-                          style={{
-                            backgroundColor: team.primaryColor,
-                            color: team.secondaryColor,
-                          }}
-                        >
-                          {team.shortName.slice(0, 2).toUpperCase()}
-                        </div>
+                        {team.logoUrl ? (
+                          <Image
+                            src={team.logoUrl}
+                            alt={`${team.name} logo`}
+                            width={32}
+                            height={32}
+                            className="mb-2"
+                          />
+                        ) : (
+                          <div
+                            className="w-8 h-8 rounded-full flex items-center justify-center text-xs font-black mb-2"
+                            style={{
+                              backgroundColor: team.primaryColor,
+                              color: team.secondaryColor,
+                            }}
+                          >
+                            {team.shortName.slice(0, 2).toUpperCase()}
+                          </div>
+                        )}
                         <p className="text-white text-xs font-semibold leading-tight line-clamp-2">
                           {team.name}
                         </p>

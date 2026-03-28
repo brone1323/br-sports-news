@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import { Team } from '@/lib/teams'
 
 interface TeamHeaderProps {
@@ -21,17 +22,29 @@ export default function TeamHeader({ team }: TeamHeaderProps) {
       />
 
       <div className="relative max-w-7xl mx-auto flex items-center gap-6">
-        {/* Logo placeholder */}
-        <div
-          className="w-20 h-20 rounded-full flex items-center justify-center text-3xl font-black flex-shrink-0 border-4"
-          style={{
-            backgroundColor: team.secondaryColor,
-            borderColor: `${team.secondaryColor}66`,
-            color: team.primaryColor,
-          }}
-        >
-          {team.shortName.slice(0, 2).toUpperCase()}
-        </div>
+        {/* Team logo */}
+        {team.logoUrl ? (
+          <div className="w-20 h-20 flex-shrink-0 flex items-center justify-center">
+            <Image
+              src={team.logoUrl}
+              alt={`${team.name} logo`}
+              width={80}
+              height={80}
+              className="drop-shadow-lg"
+            />
+          </div>
+        ) : (
+          <div
+            className="w-20 h-20 rounded-full flex items-center justify-center text-3xl font-black flex-shrink-0 border-4"
+            style={{
+              backgroundColor: team.secondaryColor,
+              borderColor: `${team.secondaryColor}66`,
+              color: team.primaryColor,
+            }}
+          >
+            {team.shortName.slice(0, 2).toUpperCase()}
+          </div>
+        )}
 
         <div>
           <div className="flex items-center gap-3 mb-1">

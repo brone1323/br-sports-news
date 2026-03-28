@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import { Team } from '@/lib/teams'
 
 interface NavBarProps {
@@ -32,9 +33,20 @@ export default function NavBar({ team }: NavBarProps) {
 
           <div className="flex items-center gap-4">
             {team && (
-              <span className="text-white font-semibold text-sm hidden md:block">
-                {team.name}
-              </span>
+              <div className="flex items-center gap-2">
+                {team.logoUrl && (
+                  <Image
+                    src={team.logoUrl}
+                    alt={`${team.name} logo`}
+                    width={28}
+                    height={28}
+                    className="hidden md:block"
+                  />
+                )}
+                <span className="text-white font-semibold text-sm hidden md:block">
+                  {team.name}
+                </span>
+              </div>
             )}
             <Link
               href="https://bragging-rights.com"
