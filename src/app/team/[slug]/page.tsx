@@ -6,6 +6,8 @@ import TeamHeader from '@/components/TeamHeader'
 import NewsFeed from '@/components/NewsFeed'
 import Sidebar from '@/components/Sidebar'
 
+export const revalidate = 3600
+
 interface PageProps {
   params: Promise<{ slug: string }>
 }
@@ -33,7 +35,7 @@ export default async function TeamPage({ params }: PageProps) {
     notFound()
   }
 
-  const articles = fetchTeamNews(team)
+  const articles = await fetchTeamNews(team)
 
   return (
     <div className="min-h-screen flex flex-col bg-gray-50">

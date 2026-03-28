@@ -13,6 +13,6 @@ export async function GET(
     return NextResponse.json({ error: 'Team not found' }, { status: 404 })
   }
 
-  const articles = fetchTeamNews(team)
+  const articles = await fetchTeamNews(team)
   return NextResponse.json({ team, articles })
 }
