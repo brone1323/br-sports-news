@@ -6,5 +6,6 @@
       "destination": "/$1",
       "has": [{ "type": "host", "value": "(?<subdomain>.+)\\.bragging-rights\\.com" }]
     }
-  ]
+  ],
+  "crons": [{ "path": "/api/facebook/cron", "schedule": "0 12 * * *" }]
 }
