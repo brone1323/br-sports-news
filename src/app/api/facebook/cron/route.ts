@@ -29,7 +29,7 @@ export async function GET(request: NextRequest) {
       continue
     }
 
-    const articles = fetchTeamNews(team)
+    const articles = await fetchTeamNews(team)
     const message = buildPostMessage(team, articles)
 
     const result = await postToFacebook(entry.pageId, entry.pageAccessToken, message)
