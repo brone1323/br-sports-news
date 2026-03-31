@@ -19,12 +19,20 @@ export function buildPostMessage(team: Team, articles: Article[]): string {
 export async function postToFacebook(
   pageId: string,
   accessToken: string,
-  message: string
+  message: string,
+  imageUrl?: string
 ): Promise<{ success: boolean; postId?: string; error?: unknown }> {
-  const res = await fetch(`https://graph.facebook.com/${pageId}/feed`, {
+  const endpoint = imageUrl
+    ? `https://graph.facebook.com/${pageId}/photos`
+    : `https://graph.facebook.com/${pageId}/feed`
+
+  const payload: Record<string, string> = { message, access_token: accessToken }
+  if (imageUrl) payload.url = imageUrl
+
+  const res = await fetch(endpoint, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ message, access_token: accessToken }),
+    body: JSON.stringify(payload),
   })
 
   if (!res.ok) {
