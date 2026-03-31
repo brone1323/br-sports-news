@@ -9,10 +9,14 @@
     "primaryColor": "#F47A38",
     "secondaryColor": "#B9975B",
     "accentColor": "#C1C6C8",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/25.png",
     "facebookPageId": "",
     "espnTeamId": "25",
-    "searchTerms": ["Anaheim Ducks", "Ducks", "ANA"]
+    "searchTerms": [
+      "Anaheim Ducks",
+      "Ducks",
+      "ANA"
+    ]
   },
   {
     "slug": "nhl-arizona-coyotes",
@@ -24,10 +28,14 @@
     "primaryColor": "#8C2633",
     "secondaryColor": "#E2D6B5",
     "accentColor": "#111111",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/53.png",
     "facebookPageId": "",
     "espnTeamId": "53",
-    "searchTerms": ["Arizona Coyotes", "Coyotes", "ARI"]
+    "searchTerms": [
+      "Arizona Coyotes",
+      "Coyotes",
+      "ARI"
+    ]
   },
   {
     "slug": "nhl-boston-bruins",
@@ -39,10 +47,14 @@
     "primaryColor": "#FFB81C",
     "secondaryColor": "#000000",
     "accentColor": "#FFB81C",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/1.png",
     "facebookPageId": "",
     "espnTeamId": "1",
-    "searchTerms": ["Boston Bruins", "Bruins", "BOS"]
+    "searchTerms": [
+      "Boston Bruins",
+      "Bruins",
+      "BOS"
+    ]
   },
   {
     "slug": "nhl-buffalo-sabres",
@@ -54,10 +66,14 @@
     "primaryColor": "#003087",
     "secondaryColor": "#FCB514",
     "accentColor": "#ADAFAA",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/2.png",
     "facebookPageId": "",
     "espnTeamId": "2",
-    "searchTerms": ["Buffalo Sabres", "Sabres", "BUF"]
+    "searchTerms": [
+      "Buffalo Sabres",
+      "Sabres",
+      "BUF"
+    ]
   },
   {
     "slug": "nhl-calgary-flames",
@@ -69,10 +85,14 @@
     "primaryColor": "#C8102E",
     "secondaryColor": "#F1BE48",
     "accentColor": "#111111",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/3.png",
     "facebookPageId": "",
     "espnTeamId": "3",
-    "searchTerms": ["Calgary Flames", "Flames", "CGY"]
+    "searchTerms": [
+      "Calgary Flames",
+      "Flames",
+      "CGY"
+    ]
   },
   {
     "slug": "nhl-carolina-hurricanes",
@@ -84,10 +104,14 @@
     "primaryColor": "#CC0000",
     "secondaryColor": "#000000",
     "accentColor": "#A2AAAD",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/12.png",
     "facebookPageId": "",
     "espnTeamId": "12",
-    "searchTerms": ["Carolina Hurricanes", "Hurricanes", "CAR"]
+    "searchTerms": [
+      "Carolina Hurricanes",
+      "Hurricanes",
+      "CAR"
+    ]
   },
   {
     "slug": "nhl-chicago-blackhawks",
@@ -99,10 +123,14 @@
     "primaryColor": "#CF0A2C",
     "secondaryColor": "#FF671B",
     "accentColor": "#00833E",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/4.png",
     "facebookPageId": "",
     "espnTeamId": "4",
-    "searchTerms": ["Chicago Blackhawks", "Blackhawks", "CHI"]
+    "searchTerms": [
+      "Chicago Blackhawks",
+      "Blackhawks",
+      "CHI"
+    ]
   },
   {
     "slug": "nhl-colorado-avalanche",
@@ -114,10 +142,14 @@
     "primaryColor": "#6F263D",
     "secondaryColor": "#236192",
     "accentColor": "#A2AAAD",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/17.png",
     "facebookPageId": "",
     "espnTeamId": "17",
-    "searchTerms": ["Colorado Avalanche", "Avalanche", "COL"]
+    "searchTerms": [
+      "Colorado Avalanche",
+      "Avalanche",
+      "COL"
+    ]
   },
   {
     "slug": "nhl-columbus-blue-jackets",
@@ -129,10 +161,14 @@
     "primaryColor": "#002654",
     "secondaryColor": "#CE1126",
     "accentColor": "#A4B0BB",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/29.png",
     "facebookPageId": "",
     "espnTeamId": "29",
-    "searchTerms": ["Columbus Blue Jackets", "Blue Jackets", "CBJ"]
+    "searchTerms": [
+      "Columbus Blue Jackets",
+      "Blue Jackets",
+      "CBJ"
+    ]
   },
   {
     "slug": "nhl-dallas-stars",
@@ -144,10 +180,14 @@
     "primaryColor": "#006847",
     "secondaryColor": "#8F8F8C",
     "accentColor": "#111111",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/13.png",
     "facebookPageId": "",
     "espnTeamId": "13",
-    "searchTerms": ["Dallas Stars", "Stars", "DAL"]
+    "searchTerms": [
+      "Dallas Stars",
+      "Stars",
+      "DAL"
+    ]
   },
   {
     "slug": "nhl-detroit-red-wings",
@@ -159,10 +199,14 @@
     "primaryColor": "#CE1126",
     "secondaryColor": "#FFFFFF",
     "accentColor": "#CE1126",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/5.png",
     "facebookPageId": "",
     "espnTeamId": "5",
-    "searchTerms": ["Detroit Red Wings", "Red Wings", "DET"]
+    "searchTerms": [
+      "Detroit Red Wings",
+      "Red Wings",
+      "DET"
+    ]
   },
   {
     "slug": "nhl-edmonton-oilers",
@@ -174,10 +218,14 @@
     "primaryColor": "#041E42",
     "secondaryColor": "#FF4C00",
     "accentColor": "#FF4C00",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/6.png",
     "facebookPageId": "",
     "espnTeamId": "6",
-    "searchTerms": ["Edmonton Oilers", "Oilers", "EDM"]
+    "searchTerms": [
+      "Edmonton Oilers",
+      "Oilers",
+      "EDM"
+    ]
   },
   {
     "slug": "nhl-florida-panthers",
@@ -189,10 +237,14 @@
     "primaryColor": "#041E42",
     "secondaryColor": "#C8102E",
     "accentColor": "#B9975B",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/26.png",
     "facebookPageId": "",
     "espnTeamId": "26",
-    "searchTerms": ["Florida Panthers", "Panthers", "FLA"]
+    "searchTerms": [
+      "Florida Panthers",
+      "Panthers",
+      "FLA"
+    ]
   },
   {
     "slug": "nhl-los-angeles-kings",
@@ -204,10 +256,14 @@
     "primaryColor": "#111111",
     "secondaryColor": "#A2AAAD",
     "accentColor": "#FFFFFF",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/26.png",
     "facebookPageId": "",
     "espnTeamId": "26",
-    "searchTerms": ["Los Angeles Kings", "Kings", "LAK"]
+    "searchTerms": [
+      "Los Angeles Kings",
+      "Kings",
+      "LAK"
+    ]
   },
   {
     "slug": "nhl-minnesota-wild",
@@ -219,10 +275,14 @@
     "primaryColor": "#154734",
     "secondaryColor": "#A6192E",
     "accentColor": "#EAAA00",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/30.png",
     "facebookPageId": "",
     "espnTeamId": "30",
-    "searchTerms": ["Minnesota Wild", "Wild", "MIN"]
+    "searchTerms": [
+      "Minnesota Wild",
+      "Wild",
+      "MIN"
+    ]
   },
   {
     "slug": "nhl-montreal-canadiens",
@@ -234,10 +294,14 @@
     "primaryColor": "#AF1E2D",
     "secondaryColor": "#192168",
     "accentColor": "#AF1E2D",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/8.png",
     "facebookPageId": "",
     "espnTeamId": "8",
-    "searchTerms": ["Montreal Canadiens", "Canadiens", "MTL"]
+    "searchTerms": [
+      "Montreal Canadiens",
+      "Canadiens",
+      "MTL"
+    ]
   },
   {
     "slug": "nhl-nashville-predators",
@@ -249,10 +313,14 @@
     "primaryColor": "#FFB81C",
     "secondaryColor": "#041E42",
     "accentColor": "#FFB81C",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/27.png",
     "facebookPageId": "",
     "espnTeamId": "27",
-    "searchTerms": ["Nashville Predators", "Predators", "NSH"]
+    "searchTerms": [
+      "Nashville Predators",
+      "Predators",
+      "NSH"
+    ]
   },
   {
     "slug": "nhl-new-jersey-devils",
@@ -264,10 +332,14 @@
     "primaryColor": "#CE1126",
     "secondaryColor": "#000000",
     "accentColor": "#CE1126",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/9.png",
     "facebookPageId": "",
     "espnTeamId": "9",
-    "searchTerms": ["New Jersey Devils", "Devils", "NJD"]
+    "searchTerms": [
+      "New Jersey Devils",
+      "Devils",
+      "NJD"
+    ]
   },
   {
     "slug": "nhl-new-york-islanders",
@@ -279,10 +351,14 @@
     "primaryColor": "#00539B",
     "secondaryColor": "#F47D30",
     "accentColor": "#00539B",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/10.png",
     "facebookPageId": "",
     "espnTeamId": "10",
-    "searchTerms": ["New York Islanders", "Islanders", "NYI"]
+    "searchTerms": [
+      "New York Islanders",
+      "Islanders",
+      "NYI"
+    ]
   },
   {
     "slug": "nhl-new-york-rangers",
@@ -294,10 +370,14 @@
     "primaryColor": "#0038A8",
     "secondaryColor": "#CE1126",
     "accentColor": "#FFFFFF",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/11.png",
     "facebookPageId": "",
     "espnTeamId": "11",
-    "searchTerms": ["New York Rangers", "Rangers", "NYR"]
+    "searchTerms": [
+      "New York Rangers",
+      "Rangers",
+      "NYR"
+    ]
   },
   {
     "slug": "nhl-ottawa-senators",
@@ -309,10 +389,14 @@
     "primaryColor": "#C52032",
     "secondaryColor": "#C69214",
     "accentColor": "#111111",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/18.png",
     "facebookPageId": "",
     "espnTeamId": "18",
-    "searchTerms": ["Ottawa Senators", "Senators", "OTT"]
+    "searchTerms": [
+      "Ottawa Senators",
+      "Senators",
+      "OTT"
+    ]
   },
   {
     "slug": "nhl-philadelphia-flyers",
@@ -324,10 +408,14 @@
     "primaryColor": "#F74902",
     "secondaryColor": "#000000",
     "accentColor": "#F74902",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/20.png",
     "facebookPageId": "",
     "espnTeamId": "20",
-    "searchTerms": ["Philadelphia Flyers", "Flyers", "PHI"]
+    "searchTerms": [
+      "Philadelphia Flyers",
+      "Flyers",
+      "PHI"
+    ]
   },
   {
     "slug": "nhl-pittsburgh-penguins",
@@ -339,10 +427,14 @@
     "primaryColor": "#000000",
     "secondaryColor": "#FCB514",
     "accentColor": "#FCB514",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/21.png",
     "facebookPageId": "",
     "espnTeamId": "21",
-    "searchTerms": ["Pittsburgh Penguins", "Penguins", "PIT"]
+    "searchTerms": [
+      "Pittsburgh Penguins",
+      "Penguins",
+      "PIT"
+    ]
   },
   {
     "slug": "nhl-san-jose-sharks",
@@ -354,10 +446,14 @@
     "primaryColor": "#006D75",
     "secondaryColor": "#000000",
     "accentColor": "#EA7200",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/28.png",
     "facebookPageId": "",
     "espnTeamId": "28",
-    "searchTerms": ["San Jose Sharks", "Sharks", "SJS"]
+    "searchTerms": [
+      "San Jose Sharks",
+      "Sharks",
+      "SJS"
+    ]
   },
   {
     "slug": "nhl-seattle-kraken",
@@ -369,10 +465,14 @@
     "primaryColor": "#001628",
     "secondaryColor": "#99D9D9",
     "accentColor": "#68A2B9",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/55.png",
     "facebookPageId": "",
     "espnTeamId": "55",
-    "searchTerms": ["Seattle Kraken", "Kraken", "SEA"]
+    "searchTerms": [
+      "Seattle Kraken",
+      "Kraken",
+      "SEA"
+    ]
   },
   {
     "slug": "nhl-st-louis-blues",
@@ -384,10 +484,14 @@
     "primaryColor": "#002F87",
     "secondaryColor": "#FCB514",
     "accentColor": "#002F87",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/14.png",
     "facebookPageId": "",
     "espnTeamId": "14",
-    "searchTerms": ["St. Louis Blues", "Blues", "STL"]
+    "searchTerms": [
+      "St. Louis Blues",
+      "Blues",
+      "STL"
+    ]
   },
   {
     "slug": "nhl-tampa-bay-lightning",
@@ -399,10 +503,14 @@
     "primaryColor": "#002868",
     "secondaryColor": "#FFFFFF",
     "accentColor": "#002868",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/22.png",
     "facebookPageId": "",
     "espnTeamId": "22",
-    "searchTerms": ["Tampa Bay Lightning", "Lightning", "TBL"]
+    "searchTerms": [
+      "Tampa Bay Lightning",
+      "Lightning",
+      "TBL"
+    ]
   },
   {
     "slug": "nhl-toronto-maple-leafs",
@@ -414,10 +522,14 @@
     "primaryColor": "#00205B",
     "secondaryColor": "#FFFFFF",
     "accentColor": "#00205B",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/19.png",
     "facebookPageId": "",
     "espnTeamId": "19",
-    "searchTerms": ["Toronto Maple Leafs", "Maple Leafs", "TOR"]
+    "searchTerms": [
+      "Toronto Maple Leafs",
+      "Maple Leafs",
+      "TOR"
+    ]
   },
   {
     "slug": "nhl-utah-hockey-club",
@@ -429,10 +541,14 @@
     "primaryColor": "#010101",
     "secondaryColor": "#69B3E7",
     "accentColor": "#69B3E7",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/56.png",
     "facebookPageId": "",
     "espnTeamId": "56",
-    "searchTerms": ["Utah Hockey Club", "Utah HC", "UTA"]
+    "searchTerms": [
+      "Utah Hockey Club",
+      "Utah HC",
+      "UTA"
+    ]
   },
   {
     "slug": "nhl-vancouver-canucks",
@@ -444,10 +560,14 @@
     "primaryColor": "#00205B",
     "secondaryColor": "#00843D",
     "accentColor": "#041C2C",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/23.png",
     "facebookPageId": "",
     "espnTeamId": "23",
-    "searchTerms": ["Vancouver Canucks", "Canucks", "VAN"]
+    "searchTerms": [
+      "Vancouver Canucks",
+      "Canucks",
+      "VAN"
+    ]
   },
   {
     "slug": "nhl-vegas-golden-knights",
@@ -459,10 +579,14 @@
     "primaryColor": "#B4975A",
     "secondaryColor": "#333F42",
     "accentColor": "#C8102E",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/54.png",
     "facebookPageId": "",
     "espnTeamId": "54",
-    "searchTerms": ["Vegas Golden Knights", "Golden Knights", "VGK"]
+    "searchTerms": [
+      "Vegas Golden Knights",
+      "Golden Knights",
+      "VGK"
+    ]
   },
   {
     "slug": "nhl-washington-capitals",
@@ -474,10 +598,14 @@
     "primaryColor": "#041E42",
     "secondaryColor": "#C8102E",
     "accentColor": "#FFFFFF",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/15.png",
     "facebookPageId": "",
     "espnTeamId": "15",
-    "searchTerms": ["Washington Capitals", "Capitals", "WSH"]
+    "searchTerms": [
+      "Washington Capitals",
+      "Capitals",
+      "WSH"
+    ]
   },
   {
     "slug": "nhl-winnipeg-jets",
@@ -489,10 +617,14 @@
     "primaryColor": "#041E42",
     "secondaryColor": "#004C97",
     "accentColor": "#AC162C",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nhl/500/52.png",
     "facebookPageId": "",
     "espnTeamId": "52",
-    "searchTerms": ["Winnipeg Jets", "Jets", "WPG"]
+    "searchTerms": [
+      "Winnipeg Jets",
+      "Jets",
+      "WPG"
+    ]
   },
   {
     "slug": "nfl-arizona-cardinals",
@@ -504,10 +636,14 @@
     "primaryColor": "#97233F",
     "secondaryColor": "#000000",
     "accentColor": "#FFB612",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/22.png",
     "facebookPageId": "",
     "espnTeamId": "22",
-    "searchTerms": ["Arizona Cardinals", "Cardinals", "ARI"]
+    "searchTerms": [
+      "Arizona Cardinals",
+      "Cardinals",
+      "ARI"
+    ]
   },
   {
     "slug": "nfl-atlanta-falcons",
@@ -519,10 +655,14 @@
     "primaryColor": "#A71930",
     "secondaryColor": "#000000",
     "accentColor": "#A5ACAF",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/1.png",
     "facebookPageId": "",
     "espnTeamId": "1",
-    "searchTerms": ["Atlanta Falcons", "Falcons", "ATL"]
+    "searchTerms": [
+      "Atlanta Falcons",
+      "Falcons",
+      "ATL"
+    ]
   },
   {
     "slug": "nfl-baltimore-ravens",
@@ -534,10 +674,14 @@
     "primaryColor": "#241773",
     "secondaryColor": "#000000",
     "accentColor": "#9E7C0C",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/33.png",
     "facebookPageId": "",
     "espnTeamId": "33",
-    "searchTerms": ["Baltimore Ravens", "Ravens", "BAL"]
+    "searchTerms": [
+      "Baltimore Ravens",
+      "Ravens",
+      "BAL"
+    ]
   },
   {
     "slug": "nfl-buffalo-bills",
@@ -549,10 +693,14 @@
     "primaryColor": "#00338D",
     "secondaryColor": "#C60C30",
     "accentColor": "#FFFFFF",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/2.png",
     "facebookPageId": "",
     "espnTeamId": "2",
-    "searchTerms": ["Buffalo Bills", "Bills", "BUF"]
+    "searchTerms": [
+      "Buffalo Bills",
+      "Bills",
+      "BUF"
+    ]
   },
   {
     "slug": "nfl-carolina-panthers",
@@ -564,10 +712,14 @@
     "primaryColor": "#0085CA",
     "secondaryColor": "#101820",
     "accentColor": "#BFC0BF",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/29.png",
     "facebookPageId": "",
     "espnTeamId": "29",
-    "searchTerms": ["Carolina Panthers", "Panthers", "CAR"]
+    "searchTerms": [
+      "Carolina Panthers",
+      "Panthers",
+      "CAR"
+    ]
   },
   {
     "slug": "nfl-chicago-bears",
@@ -579,10 +731,14 @@
     "primaryColor": "#0B162A",
     "secondaryColor": "#C83803",
     "accentColor": "#C83803",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/3.png",
     "facebookPageId": "",
     "espnTeamId": "3",
-    "searchTerms": ["Chicago Bears", "Bears", "CHI"]
+    "searchTerms": [
+      "Chicago Bears",
+      "Bears",
+      "CHI"
+    ]
   },
   {
     "slug": "nfl-cincinnati-bengals",
@@ -594,10 +750,14 @@
     "primaryColor": "#FB4F14",
     "secondaryColor": "#000000",
     "accentColor": "#FB4F14",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/4.png",
     "facebookPageId": "",
     "espnTeamId": "4",
-    "searchTerms": ["Cincinnati Bengals", "Bengals", "CIN"]
+    "searchTerms": [
+      "Cincinnati Bengals",
+      "Bengals",
+      "CIN"
+    ]
   },
   {
     "slug": "nfl-cleveland-browns",
@@ -609,10 +769,14 @@
     "primaryColor": "#311D00",
     "secondaryColor": "#FF3C00",
     "accentColor": "#FF3C00",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/5.png",
     "facebookPageId": "",
     "espnTeamId": "5",
-    "searchTerms": ["Cleveland Browns", "Browns", "CLE"]
+    "searchTerms": [
+      "Cleveland Browns",
+      "Browns",
+      "CLE"
+    ]
   },
   {
     "slug": "nfl-dallas-cowboys",
@@ -624,10 +788,14 @@
     "primaryColor": "#003594",
     "secondaryColor": "#041E42",
     "accentColor": "#869397",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/6.png",
     "facebookPageId": "",
     "espnTeamId": "6",
-    "searchTerms": ["Dallas Cowboys", "Cowboys", "DAL"]
+    "searchTerms": [
+      "Dallas Cowboys",
+      "Cowboys",
+      "DAL"
+    ]
   },
   {
     "slug": "nfl-denver-broncos",
@@ -639,10 +807,14 @@
     "primaryColor": "#FB4F14",
     "secondaryColor": "#002244",
     "accentColor": "#FB4F14",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/7.png",
     "facebookPageId": "",
     "espnTeamId": "7",
-    "searchTerms": ["Denver Broncos", "Broncos", "DEN"]
+    "searchTerms": [
+      "Denver Broncos",
+      "Broncos",
+      "DEN"
+    ]
   },
   {
     "slug": "nfl-detroit-lions",
@@ -654,10 +826,14 @@
     "primaryColor": "#0076B6",
     "secondaryColor": "#B0B7BC",
     "accentColor": "#000000",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/8.png",
     "facebookPageId": "",
     "espnTeamId": "8",
-    "searchTerms": ["Detroit Lions", "Lions", "DET"]
+    "searchTerms": [
+      "Detroit Lions",
+      "Lions",
+      "DET"
+    ]
   },
   {
     "slug": "nfl-green-bay-packers",
@@ -669,10 +845,14 @@
     "primaryColor": "#203731",
     "secondaryColor": "#FFB612",
     "accentColor": "#FFB612",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/9.png",
     "facebookPageId": "",
     "espnTeamId": "9",
-    "searchTerms": ["Green Bay Packers", "Packers", "GB"]
+    "searchTerms": [
+      "Green Bay Packers",
+      "Packers",
+      "GB"
+    ]
   },
   {
     "slug": "nfl-houston-texans",
@@ -684,10 +864,14 @@
     "primaryColor": "#03202F",
     "secondaryColor": "#A71930",
     "accentColor": "#A71930",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/34.png",
     "facebookPageId": "",
     "espnTeamId": "34",
-    "searchTerms": ["Houston Texans", "Texans", "HOU"]
+    "searchTerms": [
+      "Houston Texans",
+      "Texans",
+      "HOU"
+    ]
   },
   {
     "slug": "nfl-indianapolis-colts",
@@ -699,10 +883,14 @@
     "primaryColor": "#002C5F",
     "secondaryColor": "#A2AAAD",
     "accentColor": "#FFFFFF",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/11.png",
     "facebookPageId": "",
     "espnTeamId": "11",
-    "searchTerms": ["Indianapolis Colts", "Colts", "IND"]
+    "searchTerms": [
+      "Indianapolis Colts",
+      "Colts",
+      "IND"
+    ]
   },
   {
     "slug": "nfl-jacksonville-jaguars",
@@ -714,10 +902,14 @@
     "primaryColor": "#006778",
     "secondaryColor": "#D7A22A",
     "accentColor": "#101820",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/30.png",
     "facebookPageId": "",
     "espnTeamId": "30",
-    "searchTerms": ["Jacksonville Jaguars", "Jaguars", "JAX"]
+    "searchTerms": [
+      "Jacksonville Jaguars",
+      "Jaguars",
+      "JAX"
+    ]
   },
   {
     "slug": "nfl-kansas-city-chiefs",
@@ -729,10 +921,14 @@
     "primaryColor": "#E31837",
     "secondaryColor": "#FFB81C",
     "accentColor": "#E31837",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/12.png",
     "facebookPageId": "",
     "espnTeamId": "12",
-    "searchTerms": ["Kansas City Chiefs", "Chiefs", "KC"]
+    "searchTerms": [
+      "Kansas City Chiefs",
+      "Chiefs",
+      "KC"
+    ]
   },
   {
     "slug": "nfl-las-vegas-raiders",
@@ -744,10 +940,14 @@
     "primaryColor": "#000000",
     "secondaryColor": "#A5ACAF",
     "accentColor": "#A5ACAF",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/13.png",
     "facebookPageId": "",
     "espnTeamId": "13",
-    "searchTerms": ["Las Vegas Raiders", "Raiders", "LV"]
+    "searchTerms": [
+      "Las Vegas Raiders",
+      "Raiders",
+      "LV"
+    ]
   },
   {
     "slug": "nfl-los-angeles-chargers",
@@ -759,10 +959,14 @@
     "primaryColor": "#0080C6",
     "secondaryColor": "#FFC20E",
     "accentColor": "#FFFFFF",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/24.png",
     "facebookPageId": "",
     "espnTeamId": "24",
-    "searchTerms": ["Los Angeles Chargers", "Chargers", "LAC"]
+    "searchTerms": [
+      "Los Angeles Chargers",
+      "Chargers",
+      "LAC"
+    ]
   },
   {
     "slug": "nfl-los-angeles-rams",
@@ -774,10 +978,14 @@
     "primaryColor": "#003594",
     "secondaryColor": "#FFA300",
     "accentColor": "#FF8200",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/14.png",
     "facebookPageId": "",
     "espnTeamId": "14",
-    "searchTerms": ["Los Angeles Rams", "Rams", "LAR"]
+    "searchTerms": [
+      "Los Angeles Rams",
+      "Rams",
+      "LAR"
+    ]
   },
   {
     "slug": "nfl-miami-dolphins",
@@ -789,10 +997,14 @@
     "primaryColor": "#008E97",
     "secondaryColor": "#FC4C02",
     "accentColor": "#005778",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/15.png",
     "facebookPageId": "",
     "espnTeamId": "15",
-    "searchTerms": ["Miami Dolphins", "Dolphins", "MIA"]
+    "searchTerms": [
+      "Miami Dolphins",
+      "Dolphins",
+      "MIA"
+    ]
   },
   {
     "slug": "nfl-minnesota-vikings",
@@ -804,10 +1016,14 @@
     "primaryColor": "#4F2683",
     "secondaryColor": "#FFC62F",
     "accentColor": "#4F2683",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/16.png",
     "facebookPageId": "",
     "espnTeamId": "16",
-    "searchTerms": ["Minnesota Vikings", "Vikings", "MIN"]
+    "searchTerms": [
+      "Minnesota Vikings",
+      "Vikings",
+      "MIN"
+    ]
   },
   {
     "slug": "nfl-new-england-patriots",
@@ -819,10 +1035,14 @@
     "primaryColor": "#002244",
     "secondaryColor": "#C60C30",
     "accentColor": "#B0B7BC",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/17.png",
     "facebookPageId": "",
     "espnTeamId": "17",
-    "searchTerms": ["New England Patriots", "Patriots", "NE"]
+    "searchTerms": [
+      "New England Patriots",
+      "Patriots",
+      "NE"
+    ]
   },
   {
     "slug": "nfl-new-orleans-saints",
@@ -834,10 +1054,14 @@
     "primaryColor": "#D3BC8D",
     "secondaryColor": "#101820",
     "accentColor": "#D3BC8D",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/18.png",
     "facebookPageId": "",
     "espnTeamId": "18",
-    "searchTerms": ["New Orleans Saints", "Saints", "NO"]
+    "searchTerms": [
+      "New Orleans Saints",
+      "Saints",
+      "NO"
+    ]
   },
   {
     "slug": "nfl-new-york-giants",
@@ -849,10 +1073,14 @@
     "primaryColor": "#0B2265",
     "secondaryColor": "#A71930",
     "accentColor": "#A5ACAF",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/19.png",
     "facebookPageId": "",
     "espnTeamId": "19",
-    "searchTerms": ["New York Giants", "Giants", "NYG"]
+    "searchTerms": [
+      "New York Giants",
+      "Giants",
+      "NYG"
+    ]
   },
   {
     "slug": "nfl-new-york-jets",
@@ -864,10 +1092,14 @@
     "primaryColor": "#125740",
     "secondaryColor": "#000000",
     "accentColor": "#FFFFFF",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/20.png",
     "facebookPageId": "",
     "espnTeamId": "20",
-    "searchTerms": ["New York Jets", "Jets", "NYJ"]
+    "searchTerms": [
+      "New York Jets",
+      "Jets",
+      "NYJ"
+    ]
   },
   {
     "slug": "nfl-philadelphia-eagles",
@@ -879,10 +1111,14 @@
     "primaryColor": "#004C54",
     "secondaryColor": "#A5ACAF",
     "accentColor": "#ACC0A6",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/21.png",
     "facebookPageId": "",
     "espnTeamId": "21",
-    "searchTerms": ["Philadelphia Eagles", "Eagles", "PHI"]
+    "searchTerms": [
+      "Philadelphia Eagles",
+      "Eagles",
+      "PHI"
+    ]
   },
   {
     "slug": "nfl-pittsburgh-steelers",
@@ -894,10 +1130,14 @@
     "primaryColor": "#101820",
     "secondaryColor": "#FFB612",
     "accentColor": "#FFB612",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/23.png",
     "facebookPageId": "",
     "espnTeamId": "23",
-    "searchTerms": ["Pittsburgh Steelers", "Steelers", "PIT"]
+    "searchTerms": [
+      "Pittsburgh Steelers",
+      "Steelers",
+      "PIT"
+    ]
   },
   {
     "slug": "nfl-san-francisco-49ers",
@@ -909,10 +1149,14 @@
     "primaryColor": "#AA0000",
     "secondaryColor": "#B3995D",
     "accentColor": "#AA0000",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/25.png",
     "facebookPageId": "",
     "espnTeamId": "25",
-    "searchTerms": ["San Francisco 49ers", "49ers", "SF"]
+    "searchTerms": [
+      "San Francisco 49ers",
+      "49ers",
+      "SF"
+    ]
   },
   {
     "slug": "nfl-seattle-seahawks",
@@ -924,10 +1168,14 @@
     "primaryColor": "#002244",
     "secondaryColor": "#69BE28",
     "accentColor": "#A5ACAF",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/26.png",
     "facebookPageId": "",
     "espnTeamId": "26",
-    "searchTerms": ["Seattle Seahawks", "Seahawks", "SEA"]
+    "searchTerms": [
+      "Seattle Seahawks",
+      "Seahawks",
+      "SEA"
+    ]
   },
   {
     "slug": "nfl-tampa-bay-buccaneers",
@@ -939,10 +1187,14 @@
     "primaryColor": "#D50A0A",
     "secondaryColor": "#FF7900",
     "accentColor": "#34302B",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/27.png",
     "facebookPageId": "",
     "espnTeamId": "27",
-    "searchTerms": ["Tampa Bay Buccaneers", "Buccaneers", "TB"]
+    "searchTerms": [
+      "Tampa Bay Buccaneers",
+      "Buccaneers",
+      "TB"
+    ]
   },
   {
     "slug": "nfl-tennessee-titans",
@@ -954,10 +1206,14 @@
     "primaryColor": "#0C2340",
     "secondaryColor": "#4B92DB",
     "accentColor": "#C8102E",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/10.png",
     "facebookPageId": "",
     "espnTeamId": "10",
-    "searchTerms": ["Tennessee Titans", "Titans", "TEN"]
+    "searchTerms": [
+      "Tennessee Titans",
+      "Titans",
+      "TEN"
+    ]
   },
   {
     "slug": "nfl-washington-commanders",
@@ -969,10 +1225,14 @@
     "primaryColor": "#5A1414",
     "secondaryColor": "#FFB612",
     "accentColor": "#5A1414",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nfl/500/28.png",
     "facebookPageId": "",
     "espnTeamId": "28",
-    "searchTerms": ["Washington Commanders", "Commanders", "WAS"]
+    "searchTerms": [
+      "Washington Commanders",
+      "Commanders",
+      "WAS"
+    ]
   },
   {
     "slug": "nba-atlanta-hawks",
@@ -984,10 +1244,14 @@
     "primaryColor": "#C1D32F",
     "secondaryColor": "#E03A3E",
     "accentColor": "#26282A",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/1.png",
     "facebookPageId": "",
     "espnTeamId": "1",
-    "searchTerms": ["Atlanta Hawks", "Hawks", "ATL"]
+    "searchTerms": [
+      "Atlanta Hawks",
+      "Hawks",
+      "ATL"
+    ]
   },
   {
     "slug": "nba-boston-celtics",
@@ -999,10 +1263,14 @@
     "primaryColor": "#007A33",
     "secondaryColor": "#BA9653",
     "accentColor": "#963821",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/2.png",
     "facebookPageId": "",
     "espnTeamId": "2",
-    "searchTerms": ["Boston Celtics", "Celtics", "BOS"]
+    "searchTerms": [
+      "Boston Celtics",
+      "Celtics",
+      "BOS"
+    ]
   },
   {
     "slug": "nba-brooklyn-nets",
@@ -1014,10 +1282,14 @@
     "primaryColor": "#000000",
     "secondaryColor": "#FFFFFF",
     "accentColor": "#000000",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/17.png",
     "facebookPageId": "",
     "espnTeamId": "17",
-    "searchTerms": ["Brooklyn Nets", "Nets", "BKN"]
+    "searchTerms": [
+      "Brooklyn Nets",
+      "Nets",
+      "BKN"
+    ]
   },
   {
     "slug": "nba-charlotte-hornets",
@@ -1029,10 +1301,14 @@
     "primaryColor": "#1D1160",
     "secondaryColor": "#00788C",
     "accentColor": "#A1A1A4",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/30.png",
     "facebookPageId": "",
     "espnTeamId": "30",
-    "searchTerms": ["Charlotte Hornets", "Hornets", "CHA"]
+    "searchTerms": [
+      "Charlotte Hornets",
+      "Hornets",
+      "CHA"
+    ]
   },
   {
     "slug": "nba-chicago-bulls",
@@ -1044,10 +1320,14 @@
     "primaryColor": "#CE1141",
     "secondaryColor": "#000000",
     "accentColor": "#CE1141",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/4.png",
     "facebookPageId": "",
     "espnTeamId": "4",
-    "searchTerms": ["Chicago Bulls", "Bulls", "CHI"]
+    "searchTerms": [
+      "Chicago Bulls",
+      "Bulls",
+      "CHI"
+    ]
   },
   {
     "slug": "nba-cleveland-cavaliers",
@@ -1059,10 +1339,14 @@
     "primaryColor": "#860038",
     "secondaryColor": "#FDBB30",
     "accentColor": "#002D62",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/5.png",
     "facebookPageId": "",
     "espnTeamId": "5",
-    "searchTerms": ["Cleveland Cavaliers", "Cavaliers", "CLE"]
+    "searchTerms": [
+      "Cleveland Cavaliers",
+      "Cavaliers",
+      "CLE"
+    ]
   },
   {
     "slug": "nba-dallas-mavericks",
@@ -1074,10 +1358,14 @@
     "primaryColor": "#00538C",
     "secondaryColor": "#002B5E",
     "accentColor": "#B8C4CA",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/6.png",
     "facebookPageId": "",
     "espnTeamId": "6",
-    "searchTerms": ["Dallas Mavericks", "Mavericks", "DAL"]
+    "searchTerms": [
+      "Dallas Mavericks",
+      "Mavericks",
+      "DAL"
+    ]
   },
   {
     "slug": "nba-denver-nuggets",
@@ -1089,10 +1377,14 @@
     "primaryColor": "#0E2240",
     "secondaryColor": "#FEC524",
     "accentColor": "#8B2131",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/7.png",
     "facebookPageId": "",
     "espnTeamId": "7",
-    "searchTerms": ["Denver Nuggets", "Nuggets", "DEN"]
+    "searchTerms": [
+      "Denver Nuggets",
+      "Nuggets",
+      "DEN"
+    ]
   },
   {
     "slug": "nba-detroit-pistons",
@@ -1104,10 +1396,14 @@
     "primaryColor": "#C8102E",
     "secondaryColor": "#006BB6",
     "accentColor": "#BEC0C2",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/8.png",
     "facebookPageId": "",
     "espnTeamId": "8",
-    "searchTerms": ["Detroit Pistons", "Pistons", "DET"]
+    "searchTerms": [
+      "Detroit Pistons",
+      "Pistons",
+      "DET"
+    ]
   },
   {
     "slug": "nba-golden-state-warriors",
@@ -1119,10 +1415,14 @@
     "primaryColor": "#1D428A",
     "secondaryColor": "#FFC72C",
     "accentColor": "#1D428A",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/9.png",
     "facebookPageId": "",
     "espnTeamId": "9",
-    "searchTerms": ["Golden State Warriors", "Warriors", "GSW"]
+    "searchTerms": [
+      "Golden State Warriors",
+      "Warriors",
+      "GSW"
+    ]
   },
   {
     "slug": "nba-houston-rockets",
@@ -1134,10 +1434,14 @@
     "primaryColor": "#CE1141",
     "secondaryColor": "#000000",
     "accentColor": "#C4CED4",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/10.png",
     "facebookPageId": "",
     "espnTeamId": "10",
-    "searchTerms": ["Houston Rockets", "Rockets", "HOU"]
+    "searchTerms": [
+      "Houston Rockets",
+      "Rockets",
+      "HOU"
+    ]
   },
   {
     "slug": "nba-indiana-pacers",
@@ -1149,10 +1453,14 @@
     "primaryColor": "#002D62",
     "secondaryColor": "#FDBB30",
     "accentColor": "#BEC0C2",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/11.png",
     "facebookPageId": "",
     "espnTeamId": "11",
-    "searchTerms": ["Indiana Pacers", "Pacers", "IND"]
+    "searchTerms": [
+      "Indiana Pacers",
+      "Pacers",
+      "IND"
+    ]
   },
   {
     "slug": "nba-los-angeles-clippers",
@@ -1164,10 +1472,14 @@
     "primaryColor": "#C8102E",
     "secondaryColor": "#1D428A",
     "accentColor": "#BEC0C2",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/12.png",
     "facebookPageId": "",
     "espnTeamId": "12",
-    "searchTerms": ["Los Angeles Clippers", "Clippers", "LAC"]
+    "searchTerms": [
+      "Los Angeles Clippers",
+      "Clippers",
+      "LAC"
+    ]
   },
   {
     "slug": "nba-los-angeles-lakers",
@@ -1179,10 +1491,14 @@
     "primaryColor": "#552583",
     "secondaryColor": "#FDB927",
     "accentColor": "#552583",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/13.png",
     "facebookPageId": "",
     "espnTeamId": "13",
-    "searchTerms": ["Los Angeles Lakers", "Lakers", "LAL"]
+    "searchTerms": [
+      "Los Angeles Lakers",
+      "Lakers",
+      "LAL"
+    ]
   },
   {
     "slug": "nba-memphis-grizzlies",
@@ -1194,10 +1510,14 @@
     "primaryColor": "#5D76A9",
     "secondaryColor": "#12173F",
     "accentColor": "#F5B112",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/29.png",
     "facebookPageId": "",
     "espnTeamId": "29",
-    "searchTerms": ["Memphis Grizzlies", "Grizzlies", "MEM"]
+    "searchTerms": [
+      "Memphis Grizzlies",
+      "Grizzlies",
+      "MEM"
+    ]
   },
   {
     "slug": "nba-miami-heat",
@@ -1209,10 +1529,14 @@
     "primaryColor": "#98002E",
     "secondaryColor": "#F9A01B",
     "accentColor": "#000000",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/14.png",
     "facebookPageId": "",
     "espnTeamId": "14",
-    "searchTerms": ["Miami Heat", "Heat", "MIA"]
+    "searchTerms": [
+      "Miami Heat",
+      "Heat",
+      "MIA"
+    ]
   },
   {
     "slug": "nba-milwaukee-bucks",
@@ -1224,10 +1548,14 @@
     "primaryColor": "#00471B",
     "secondaryColor": "#EEE1C6",
     "accentColor": "#0077C0",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/15.png",
     "facebookPageId": "",
     "espnTeamId": "15",
-    "searchTerms": ["Milwaukee Bucks", "Bucks", "MIL"]
+    "searchTerms": [
+      "Milwaukee Bucks",
+      "Bucks",
+      "MIL"
+    ]
   },
   {
     "slug": "nba-minnesota-timberwolves",
@@ -1239,10 +1567,14 @@
     "primaryColor": "#0C2340",
     "secondaryColor": "#236192",
     "accentColor": "#9EA1A2",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/16.png",
     "facebookPageId": "",
     "espnTeamId": "16",
-    "searchTerms": ["Minnesota Timberwolves", "Timberwolves", "MIN"]
+    "searchTerms": [
+      "Minnesota Timberwolves",
+      "Timberwolves",
+      "MIN"
+    ]
   },
   {
     "slug": "nba-new-orleans-pelicans",
@@ -1254,10 +1586,14 @@
     "primaryColor": "#0C2340",
     "secondaryColor": "#C8102E",
     "accentColor": "#85714D",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/3.png",
     "facebookPageId": "",
     "espnTeamId": "3",
-    "searchTerms": ["New Orleans Pelicans", "Pelicans", "NOP"]
+    "searchTerms": [
+      "New Orleans Pelicans",
+      "Pelicans",
+      "NOP"
+    ]
   },
   {
     "slug": "nba-new-york-knicks",
@@ -1269,10 +1605,14 @@
     "primaryColor": "#006BB6",
     "secondaryColor": "#F58426",
     "accentColor": "#BEC0C2",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/18.png",
     "facebookPageId": "",
     "espnTeamId": "18",
-    "searchTerms": ["New York Knicks", "Knicks", "NYK"]
+    "searchTerms": [
+      "New York Knicks",
+      "Knicks",
+      "NYK"
+    ]
   },
   {
     "slug": "nba-oklahoma-city-thunder",
@@ -1284,10 +1624,14 @@
     "primaryColor": "#007AC1",
     "secondaryColor": "#EF3B24",
     "accentColor": "#002D62",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/25.png",
     "facebookPageId": "",
     "espnTeamId": "25",
-    "searchTerms": ["Oklahoma City Thunder", "Thunder", "OKC"]
+    "searchTerms": [
+      "Oklahoma City Thunder",
+      "Thunder",
+      "OKC"
+    ]
   },
   {
     "slug": "nba-orlando-magic",
@@ -1299,10 +1643,14 @@
     "primaryColor": "#0077C0",
     "secondaryColor": "#C4CED4",
     "accentColor": "#000000",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/19.png",
     "facebookPageId": "",
     "espnTeamId": "19",
-    "searchTerms": ["Orlando Magic", "Magic", "ORL"]
+    "searchTerms": [
+      "Orlando Magic",
+      "Magic",
+      "ORL"
+    ]
   },
   {
     "slug": "nba-philadelphia-76ers",
@@ -1314,10 +1662,14 @@
     "primaryColor": "#006BB6",
     "secondaryColor": "#ED174C",
     "accentColor": "#002B5C",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/20.png",
     "facebookPageId": "",
     "espnTeamId": "20",
-    "searchTerms": ["Philadelphia 76ers", "76ers", "PHI"]
+    "searchTerms": [
+      "Philadelphia 76ers",
+      "76ers",
+      "PHI"
+    ]
   },
   {
     "slug": "nba-phoenix-suns",
@@ -1329,10 +1681,14 @@
     "primaryColor": "#1D1160",
     "secondaryColor": "#E56020",
     "accentColor": "#63727A",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/21.png",
     "facebookPageId": "",
     "espnTeamId": "21",
-    "searchTerms": ["Phoenix Suns", "Suns", "PHX"]
+    "searchTerms": [
+      "Phoenix Suns",
+      "Suns",
+      "PHX"
+    ]
   },
   {
     "slug": "nba-portland-trail-blazers",
@@ -1344,10 +1700,14 @@
     "primaryColor": "#E03A3E",
     "secondaryColor": "#000000",
     "accentColor": "#BAC3C9",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/22.png",
     "facebookPageId": "",
     "espnTeamId": "22",
-    "searchTerms": ["Portland Trail Blazers", "Trail Blazers", "POR"]
+    "searchTerms": [
+      "Portland Trail Blazers",
+      "Trail Blazers",
+      "POR"
+    ]
   },
   {
     "slug": "nba-sacramento-kings",
@@ -1359,10 +1719,14 @@
     "primaryColor": "#5A2D81",
     "secondaryColor": "#63727A",
     "accentColor": "#000000",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/23.png",
     "facebookPageId": "",
     "espnTeamId": "23",
-    "searchTerms": ["Sacramento Kings", "Kings", "SAC"]
+    "searchTerms": [
+      "Sacramento Kings",
+      "Kings",
+      "SAC"
+    ]
   },
   {
     "slug": "nba-san-antonio-spurs",
@@ -1374,10 +1738,14 @@
     "primaryColor": "#C4CED4",
     "secondaryColor": "#000000",
     "accentColor": "#000000",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/24.png",
     "facebookPageId": "",
     "espnTeamId": "24",
-    "searchTerms": ["San Antonio Spurs", "Spurs", "SAS"]
+    "searchTerms": [
+      "San Antonio Spurs",
+      "Spurs",
+      "SAS"
+    ]
   },
   {
     "slug": "nba-toronto-raptors",
@@ -1389,10 +1757,14 @@
     "primaryColor": "#CE1141",
     "secondaryColor": "#000000",
     "accentColor": "#A1A1A4",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/28.png",
     "facebookPageId": "",
     "espnTeamId": "28",
-    "searchTerms": ["Toronto Raptors", "Raptors", "TOR"]
+    "searchTerms": [
+      "Toronto Raptors",
+      "Raptors",
+      "TOR"
+    ]
   },
   {
     "slug": "nba-utah-jazz",
@@ -1404,10 +1776,14 @@
     "primaryColor": "#002B5C",
     "secondaryColor": "#00471B",
     "accentColor": "#F9A01B",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/26.png",
     "facebookPageId": "",
     "espnTeamId": "26",
-    "searchTerms": ["Utah Jazz", "Jazz", "UTA"]
+    "searchTerms": [
+      "Utah Jazz",
+      "Jazz",
+      "UTA"
+    ]
   },
   {
     "slug": "nba-washington-wizards",
@@ -1419,10 +1795,14 @@
     "primaryColor": "#002B5C",
     "secondaryColor": "#E31837",
     "accentColor": "#C4CED4",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/27.png",
     "facebookPageId": "",
     "espnTeamId": "27",
-    "searchTerms": ["Washington Wizards", "Wizards", "WAS"]
+    "searchTerms": [
+      "Washington Wizards",
+      "Wizards",
+      "WAS"
+    ]
   },
   {
     "slug": "mlb-arizona-diamondbacks",
@@ -1434,10 +1814,14 @@
     "primaryColor": "#A71930",
     "secondaryColor": "#E3D4AD",
     "accentColor": "#000000",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/29.png",
     "facebookPageId": "",
     "espnTeamId": "29",
-    "searchTerms": ["Arizona Diamondbacks", "Diamondbacks", "ARI"]
+    "searchTerms": [
+      "Arizona Diamondbacks",
+      "Diamondbacks",
+      "ARI"
+    ]
   },
   {
     "slug": "mlb-atlanta-braves",
@@ -1449,10 +1833,14 @@
     "primaryColor": "#CE1141",
     "secondaryColor": "#13274F",
     "accentColor": "#CE1141",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/15.png",
     "facebookPageId": "",
     "espnTeamId": "15",
-    "searchTerms": ["Atlanta Braves", "Braves", "ATL"]
+    "searchTerms": [
+      "Atlanta Braves",
+      "Braves",
+      "ATL"
+    ]
   },
   {
     "slug": "mlb-baltimore-orioles",
@@ -1464,10 +1852,14 @@
     "primaryColor": "#DF4601",
     "secondaryColor": "#000000",
     "accentColor": "#DF4601",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/1.png",
     "facebookPageId": "",
     "espnTeamId": "1",
-    "searchTerms": ["Baltimore Orioles", "Orioles", "BAL"]
+    "searchTerms": [
+      "Baltimore Orioles",
+      "Orioles",
+      "BAL"
+    ]
   },
   {
     "slug": "mlb-boston-red-sox",
@@ -1479,10 +1871,14 @@
     "primaryColor": "#BD3039",
     "secondaryColor": "#0C2340",
     "accentColor": "#BD3039",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/2.png",
     "facebookPageId": "",
     "espnTeamId": "2",
-    "searchTerms": ["Boston Red Sox", "Red Sox", "BOS"]
+    "searchTerms": [
+      "Boston Red Sox",
+      "Red Sox",
+      "BOS"
+    ]
   },
   {
     "slug": "mlb-chicago-cubs",
@@ -1494,10 +1890,14 @@
     "primaryColor": "#0E3386",
     "secondaryColor": "#CC3433",
     "accentColor": "#0E3386",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/16.png",
     "facebookPageId": "",
     "espnTeamId": "16",
-    "searchTerms": ["Chicago Cubs", "Cubs", "CHC"]
+    "searchTerms": [
+      "Chicago Cubs",
+      "Cubs",
+      "CHC"
+    ]
   },
   {
     "slug": "mlb-chicago-white-sox",
@@ -1509,10 +1909,14 @@
     "primaryColor": "#27251F",
     "secondaryColor": "#C4CED4",
     "accentColor": "#27251F",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/4.png",
     "facebookPageId": "",
     "espnTeamId": "4",
-    "searchTerms": ["Chicago White Sox", "White Sox", "CWS"]
+    "searchTerms": [
+      "Chicago White Sox",
+      "White Sox",
+      "CWS"
+    ]
   },
   {
     "slug": "mlb-cincinnati-reds",
@@ -1524,10 +1928,14 @@
     "primaryColor": "#C6011F",
     "secondaryColor": "#000000",
     "accentColor": "#C6011F",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/17.png",
     "facebookPageId": "",
     "espnTeamId": "17",
-    "searchTerms": ["Cincinnati Reds", "Reds", "CIN"]
+    "searchTerms": [
+      "Cincinnati Reds",
+      "Reds",
+      "CIN"
+    ]
   },
   {
     "slug": "mlb-cleveland-guardians",
@@ -1539,10 +1947,14 @@
     "primaryColor": "#00385D",
     "secondaryColor": "#E31937",
     "accentColor": "#00385D",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/5.png",
     "facebookPageId": "",
     "espnTeamId": "5",
-    "searchTerms": ["Cleveland Guardians", "Guardians", "CLE"]
+    "searchTerms": [
+      "Cleveland Guardians",
+      "Guardians",
+      "CLE"
+    ]
   },
   {
     "slug": "mlb-colorado-rockies",
@@ -1554,10 +1966,14 @@
     "primaryColor": "#333366",
     "secondaryColor": "#C4CED4",
     "accentColor": "#000000",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/27.png",
     "facebookPageId": "",
     "espnTeamId": "27",
-    "searchTerms": ["Colorado Rockies", "Rockies", "COL"]
+    "searchTerms": [
+      "Colorado Rockies",
+      "Rockies",
+      "COL"
+    ]
   },
   {
     "slug": "mlb-detroit-tigers",
@@ -1569,10 +1985,14 @@
     "primaryColor": "#0C2C56",
     "secondaryColor": "#FA4616",
     "accentColor": "#FFFFFF",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/6.png",
     "facebookPageId": "",
     "espnTeamId": "6",
-    "searchTerms": ["Detroit Tigers", "Tigers", "DET"]
+    "searchTerms": [
+      "Detroit Tigers",
+      "Tigers",
+      "DET"
+    ]
   },
   {
     "slug": "mlb-houston-astros",
@@ -1584,10 +2004,14 @@
     "primaryColor": "#002D62",
     "secondaryColor": "#EB6E1F",
     "accentColor": "#002D62",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/18.png",
     "facebookPageId": "",
     "espnTeamId": "18",
-    "searchTerms": ["Houston Astros", "Astros", "HOU"]
+    "searchTerms": [
+      "Houston Astros",
+      "Astros",
+      "HOU"
+    ]
   },
   {
     "slug": "mlb-kansas-city-royals",
@@ -1599,10 +2023,14 @@
     "primaryColor": "#004687",
     "secondaryColor": "#C09A5B",
     "accentColor": "#FFFFFF",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/7.png",
     "facebookPageId": "",
     "espnTeamId": "7",
-    "searchTerms": ["Kansas City Royals", "Royals", "KC"]
+    "searchTerms": [
+      "Kansas City Royals",
+      "Royals",
+      "KC"
+    ]
   },
   {
     "slug": "mlb-los-angeles-angels",
@@ -1614,10 +2042,14 @@
     "primaryColor": "#BA0021",
     "secondaryColor": "#003263",
     "accentColor": "#C4C8CB",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/3.png",
     "facebookPageId": "",
     "espnTeamId": "3",
-    "searchTerms": ["Los Angeles Angels", "Angels", "LAA"]
+    "searchTerms": [
+      "Los Angeles Angels",
+      "Angels",
+      "LAA"
+    ]
   },
   {
     "slug": "mlb-los-angeles-dodgers",
@@ -1629,10 +2061,14 @@
     "primaryColor": "#005A9C",
     "secondaryColor": "#EF3E42",
     "accentColor": "#005A9C",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/19.png",
     "facebookPageId": "",
     "espnTeamId": "19",
-    "searchTerms": ["Los Angeles Dodgers", "Dodgers", "LAD"]
+    "searchTerms": [
+      "Los Angeles Dodgers",
+      "Dodgers",
+      "LAD"
+    ]
   },
   {
     "slug": "mlb-miami-marlins",
@@ -1644,10 +2080,14 @@
     "primaryColor": "#00A3E0",
     "secondaryColor": "#EF3340",
     "accentColor": "#FFD100",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/28.png",
     "facebookPageId": "",
     "espnTeamId": "28",
-    "searchTerms": ["Miami Marlins", "Marlins", "MIA"]
+    "searchTerms": [
+      "Miami Marlins",
+      "Marlins",
+      "MIA"
+    ]
   },
   {
     "slug": "mlb-milwaukee-brewers",
@@ -1659,10 +2099,14 @@
     "primaryColor": "#FFC52F",
     "secondaryColor": "#12284B",
     "accentColor": "#FFC52F",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/8.png",
     "facebookPageId": "",
     "espnTeamId": "8",
-    "searchTerms": ["Milwaukee Brewers", "Brewers", "MIL"]
+    "searchTerms": [
+      "Milwaukee Brewers",
+      "Brewers",
+      "MIL"
+    ]
   },
   {
     "slug": "mlb-minnesota-twins",
@@ -1674,10 +2118,14 @@
     "primaryColor": "#002B5C",
     "secondaryColor": "#D31145",
     "accentColor": "#B9975B",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/9.png",
     "facebookPageId": "",
     "espnTeamId": "9",
-    "searchTerms": ["Minnesota Twins", "Twins", "MIN"]
+    "searchTerms": [
+      "Minnesota Twins",
+      "Twins",
+      "MIN"
+    ]
   },
   {
     "slug": "mlb-new-york-mets",
@@ -1689,10 +2137,14 @@
     "primaryColor": "#002D72",
     "secondaryColor": "#FF5910",
     "accentColor": "#002D72",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/21.png",
     "facebookPageId": "",
     "espnTeamId": "21",
-    "searchTerms": ["New York Mets", "Mets", "NYM"]
+    "searchTerms": [
+      "New York Mets",
+      "Mets",
+      "NYM"
+    ]
   },
   {
     "slug": "mlb-new-york-yankees",
@@ -1704,10 +2156,14 @@
     "primaryColor": "#003087",
     "secondaryColor": "#FFFFFF",
     "accentColor": "#003087",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/10.png",
     "facebookPageId": "",
     "espnTeamId": "10",
-    "searchTerms": ["New York Yankees", "Yankees", "NYY"]
+    "searchTerms": [
+      "New York Yankees",
+      "Yankees",
+      "NYY"
+    ]
   },
   {
     "slug": "mlb-oakland-athletics",
@@ -1719,10 +2175,14 @@
     "primaryColor": "#003831",
     "secondaryColor": "#EFB21E",
     "accentColor": "#003831",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/11.png",
     "facebookPageId": "",
     "espnTeamId": "11",
-    "searchTerms": ["Oakland Athletics", "Athletics", "OAK"]
+    "searchTerms": [
+      "Oakland Athletics",
+      "Athletics",
+      "OAK"
+    ]
   },
   {
     "slug": "mlb-philadelphia-phillies",
@@ -1734,10 +2194,14 @@
     "primaryColor": "#E81828",
     "secondaryColor": "#002D72",
     "accentColor": "#E81828",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/22.png",
     "facebookPageId": "",
     "espnTeamId": "22",
-    "searchTerms": ["Philadelphia Phillies", "Phillies", "PHI"]
+    "searchTerms": [
+      "Philadelphia Phillies",
+      "Phillies",
+      "PHI"
+    ]
   },
   {
     "slug": "mlb-pittsburgh-pirates",
@@ -1749,10 +2213,14 @@
     "primaryColor": "#27251F",
     "secondaryColor": "#FDB827",
     "accentColor": "#27251F",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/23.png",
     "facebookPageId": "",
     "espnTeamId": "23",
-    "searchTerms": ["Pittsburgh Pirates", "Pirates", "PIT"]
+    "searchTerms": [
+      "Pittsburgh Pirates",
+      "Pirates",
+      "PIT"
+    ]
   },
   {
     "slug": "mlb-san-diego-padres",
@@ -1764,10 +2232,14 @@
     "primaryColor": "#2F241D",
     "secondaryColor": "#FFC425",
     "accentColor": "#A0AAB2",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/25.png",
     "facebookPageId": "",
     "espnTeamId": "25",
-    "searchTerms": ["San Diego Padres", "Padres", "SD"]
+    "searchTerms": [
+      "San Diego Padres",
+      "Padres",
+      "SD"
+    ]
   },
   {
     "slug": "mlb-san-francisco-giants",
@@ -1779,10 +2251,14 @@
     "primaryColor": "#FD5A1E",
     "secondaryColor": "#27251F",
     "accentColor": "#EFD19F",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/26.png",
     "facebookPageId": "",
     "espnTeamId": "26",
-    "searchTerms": ["San Francisco Giants", "Giants", "SF"]
+    "searchTerms": [
+      "San Francisco Giants",
+      "Giants",
+      "SF"
+    ]
   },
   {
     "slug": "mlb-seattle-mariners",
@@ -1794,10 +2270,14 @@
     "primaryColor": "#0C2C56",
     "secondaryColor": "#005C5C",
     "accentColor": "#C4CED4",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/12.png",
     "facebookPageId": "",
     "espnTeamId": "12",
-    "searchTerms": ["Seattle Mariners", "Mariners", "SEA"]
+    "searchTerms": [
+      "Seattle Mariners",
+      "Mariners",
+      "SEA"
+    ]
   },
   {
     "slug": "mlb-st-louis-cardinals",
@@ -1809,10 +2289,14 @@
     "primaryColor": "#C41E3A",
     "secondaryColor": "#0C2340",
     "accentColor": "#FEDB00",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/24.png",
     "facebookPageId": "",
     "espnTeamId": "24",
-    "searchTerms": ["St. Louis Cardinals", "Cardinals", "STL"]
+    "searchTerms": [
+      "St. Louis Cardinals",
+      "Cardinals",
+      "STL"
+    ]
   },
   {
     "slug": "mlb-tampa-bay-rays",
@@ -1824,10 +2308,14 @@
     "primaryColor": "#092C5C",
     "secondaryColor": "#8FBCE6",
     "accentColor": "#F5D130",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/30.png",
     "facebookPageId": "",
     "espnTeamId": "30",
-    "searchTerms": ["Tampa Bay Rays", "Rays", "TB"]
+    "searchTerms": [
+      "Tampa Bay Rays",
+      "Rays",
+      "TB"
+    ]
   },
   {
     "slug": "mlb-texas-rangers",
@@ -1839,10 +2327,14 @@
     "primaryColor": "#003278",
     "secondaryColor": "#C0111F",
     "accentColor": "#003278",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/13.png",
     "facebookPageId": "",
     "espnTeamId": "13",
-    "searchTerms": ["Texas Rangers", "Rangers", "TEX"]
+    "searchTerms": [
+      "Texas Rangers",
+      "Rangers",
+      "TEX"
+    ]
   },
   {
     "slug": "mlb-toronto-blue-jays",
@@ -1854,10 +2346,14 @@
     "primaryColor": "#134A8E",
     "secondaryColor": "#E8291C",
     "accentColor": "#1D2D5C",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/14.png",
     "facebookPageId": "",
     "espnTeamId": "14",
-    "searchTerms": ["Toronto Blue Jays", "Blue Jays", "TOR"]
+    "searchTerms": [
+      "Toronto Blue Jays",
+      "Blue Jays",
+      "TOR"
+    ]
   },
   {
     "slug": "mlb-washington-nationals",
@@ -1869,9 +2365,13 @@
     "primaryColor": "#AB0003",
     "secondaryColor": "#14225A",
     "accentColor": "#AB0003",
-    "logoUrl": "",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/mlb/500/20.png",
     "facebookPageId": "",
     "espnTeamId": "20",
-    "searchTerms": ["Washington Nationals", "Nationals", "WAS"]
+    "searchTerms": [
+      "Washington Nationals",
+      "Nationals",
+      "WAS"
+    ]
   }
 ]
