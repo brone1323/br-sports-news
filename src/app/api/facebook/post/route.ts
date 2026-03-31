@@ -21,7 +21,7 @@ export async function POST(request: NextRequest) {
 
   const articles = fetchTeamNews(team)
   const message = buildPostMessage(team, articles)
-  const result = await postToFacebook(pageId, pageAccessToken, message)
+  const result = await postToFacebook(pageId, pageAccessToken, message, team.logoUrl)
 
   if (!result.success) {
     return NextResponse.json({ success: false, error: result.error }, { status: 502 })
