@@ -19,7 +19,7 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ error: `Team not found: ${slug}` }, { status: 404 })
   }
 
-  const articles = fetchTeamNews(team)
+  const articles = await fetchTeamNews(team)
   const message = buildPostMessage(team, articles)
   const result = await postToFacebook(pageId, pageAccessToken, message)
 
