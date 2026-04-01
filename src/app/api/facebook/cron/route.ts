@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from 'next/server'
 import { getTeam } from '@/lib/teams'
 import { fetchTeamNews } from '@/lib/news'
 import { buildPostMessage, postToFacebook } from '@/lib/facebook'
+import { rewriteArticle } from '@/lib/claude'
 import pages from '@/data/facebook-pages.json'
 
 export async function GET(request: NextRequest) {
@@ -30,7 +31,11 @@ export async function GET(request: NextRequest) {
     }
 
     const articles = await fetchTeamNews(team)
-    const message = buildPostMessage(team, articles)
+    const rewritten = await rewriteArticle(articles[0])
+    const displayArticles = rewritten
+      ? [{ ...articles[0], ...rewritten }, ...articles.slice(1)]
+      : articles
+    const message = buildPostMessage(team, displayArticles)
 
     const result = await postToFacebook(entry.pageId, entry.pageAccessToken, message, team.logoUrl)
     if (result.success) {
