@@ -7,10 +7,9 @@ import pages from '@/data/facebook-pages.json'
 
 export async function GET(request: NextRequest) {
   const authHeader = request.headers.get('authorization')
-  if (
-    process.env.FACEBOOK_CRON_SECRET &&
-    authHeader !== `Bearer ${process.env.FACEBOOK_CRON_SECRET}`
-  ) {
+  if (!process.env.FACEBOOK_CRON_SECRET) {
+    console.warn('FACEBOOK_CRON_SECRET is not set — cron endpoint is unprotected')
+  } else if (authHeader !== `Bearer ${process.env.FACEBOOK_CRON_SECRET}`) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
   }
 
@@ -31,6 +30,10 @@ export async function GET(request: NextRequest) {
     }
 
     const articles = await fetchTeamNews(team)
+    if (articles.length === 0) {
+      skipped++
+      continue
+    }
     const rewritten = await rewriteArticle(articles[0])
     const displayArticles = rewritten
       ? [{ ...articles[0], ...rewritten }, ...articles.slice(1)]
