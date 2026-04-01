@@ -1,11 +1,15 @@
 import Link from 'next/link'
 import { Team } from '@/lib/teams'
+import PollWidget from '@/components/PollWidget'
 
 interface SidebarProps {
   team: Team
 }
 
 export default function Sidebar({ team }: SidebarProps) {
+  const fbPageId = team.facebookPageId
+  const fbUrl = fbPageId ? `https://facebook.com/${fbPageId}` : null
+
   return (
     <aside className="space-y-5">
       {/* Bragging Rights Links */}
@@ -45,28 +49,7 @@ export default function Sidebar({ team }: SidebarProps) {
         >
           Today&apos;s Poll
         </div>
-        <div className="p-4">
-          <p className="text-sm font-semibold text-gray-800 mb-3">
-            Will the {team.shortName} make the playoffs this season?
-          </p>
-          <div className="space-y-2">
-            {['Yes, definitely', 'Probably', 'Unlikely', 'No chance'].map((option) => (
-              <button
-                key={option}
-                className="w-full text-left px-3 py-2 text-sm rounded border border-gray-200 hover:border-gray-400 hover:bg-gray-50 transition-colors text-gray-700"
-              >
-                {option}
-              </button>
-            ))}
-          </div>
-          <Link
-            href="https://bragging-rights.com/polls"
-            className="block text-center mt-3 text-xs font-semibold hover:underline"
-            style={{ color: team.primaryColor }}
-          >
-            See all polls →
-          </Link>
-        </div>
+        <PollWidget slug={team.slug} primaryColor={team.primaryColor} />
       </div>
 
       {/* Team Stats */}
@@ -95,33 +78,35 @@ export default function Sidebar({ team }: SidebarProps) {
       </div>
 
       {/* Follow on Facebook */}
-      <div className="bg-white rounded-lg shadow-sm border border-gray-100 overflow-hidden">
-        <div
-          className="px-4 py-3 text-white text-sm font-bold uppercase tracking-wide"
-          style={{ backgroundColor: team.primaryColor }}
-        >
-          Follow the {team.shortName}
-        </div>
-        <div className="p-4 text-center">
-          <div className="w-12 h-12 rounded-full bg-blue-600 flex items-center justify-center mx-auto mb-3">
-            <svg className="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 24 24">
-              <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
-            </svg>
-          </div>
-          <p className="text-sm text-gray-600 mb-3">
-            Get the latest {team.shortName} news on Facebook
-          </p>
-          <a
-            href="https://facebook.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="block w-full py-2 rounded text-white text-sm font-semibold transition-opacity hover:opacity-90"
-            style={{ backgroundColor: '#1877F2' }}
+      {fbUrl && (
+        <div className="bg-white rounded-lg shadow-sm border border-gray-100 overflow-hidden">
+          <div
+            className="px-4 py-3 text-white text-sm font-bold uppercase tracking-wide"
+            style={{ backgroundColor: team.primaryColor }}
           >
-            Follow on Facebook
-          </a>
+            Follow the {team.shortName}
+          </div>
+          <div className="p-4 text-center">
+            <div className="w-12 h-12 rounded-full bg-blue-600 flex items-center justify-center mx-auto mb-3">
+              <svg className="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 24 24">
+                <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
+              </svg>
+            </div>
+            <p className="text-sm text-gray-600 mb-3">
+              Get the latest {team.shortName} news on Facebook
+            </p>
+            <a
+              href={fbUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="block w-full py-2 rounded text-white text-sm font-semibold transition-opacity hover:opacity-90"
+              style={{ backgroundColor: '#1877F2' }}
+            >
+              Follow on Facebook
+            </a>
+          </div>
         </div>
-      </div>
+      )}
     </aside>
   )
 }

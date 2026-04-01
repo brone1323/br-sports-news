@@ -1,11 +1,4 @@
 {
   "framework": "nextjs",
-  "rewrites": [
-    {
-      "source": "/",
-      "destination": "/team/$subdomain",
-      "has": [{ "type": "host", "value": "(?<subdomain>[^.]+)\\.bragging-rights\\.com" }]
-    }
-  ],
   "crons": [{ "path": "/api/facebook/cron", "schedule": "0 12 * * *" }]
 }
