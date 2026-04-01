@@ -136,8 +136,8 @@
   },
   {
     "slug": "nhl-toronto-maple-leafs",
-    "pageId": "",
-    "pageAccessToken": ""
+    "pageId": "1118563847996271",
+    "pageAccessToken": "EAAnODCNPGpgBRB7ZC0ZAkj0ZCT54TdTg32b03AzeUAOOmvtG33MYerpZCtHqfKzdKd3nyTRhsa3bWZBbriYrOhnUEoxdIjC4lrcogJELoDx9BgTnsOzL0DeHMDwg9QAad6PvSUv2rgS3efcKAUekW9wSfzJRCJsCkiD1quUoT2hw9Dv4ikk00Sf4vbY0ciCqI7oZA6"
   },
   {
     "slug": "nhl-utah-hockey-club",
@@ -206,8 +206,8 @@
   },
   {
     "slug": "nfl-dallas-cowboys",
-    "pageId": "",
-    "pageAccessToken": ""
+    "pageId": "1073030939224808",
+    "pageAccessToken": "EAAnODCNPGpgBRC9g8acVjsxLYmbOs2B2vUL0PJdJvVW1UpXiZA4kZAnC28KDGhT4nWgrQFyZBxcjFzaK7ec3cI32CbxiMPUHOKxunNZBvM4paF9hgXb2GOvzKCyXQBSgmutu3MC8qNXW4RCtgKOnt4uxZCLoszccyfBFHtCVvnENvaTVTkoZAep68ZAajsuzLOgL5tt"
   },
   {
     "slug": "nfl-denver-broncos",
@@ -271,8 +271,8 @@
   },
   {
     "slug": "nfl-new-england-patriots",
-    "pageId": "",
-    "pageAccessToken": ""
+    "pageId": "1016154211592394",
+    "pageAccessToken": "EAAnODCNPGpgBRI0V0MMT95ObDv0kbtgoY3KadRXopZCibNjXcRCpN8UWs5BiohxjUQMoKZAApmzJgnlNo913S9uvmAyK8XTM1qmUSrlSMP3h1vTuZA1HYN3nm0ZA8FyV16WpN54novmOvQ1edVMFpdSayeH3Hcjb3r40FCFyuqCWJye14uCuoxx6nd931fxfw10Q"
   },
   {
     "slug": "nfl-new-orleans-saints",
@@ -391,8 +391,8 @@
   },
   {
     "slug": "nba-los-angeles-lakers",
-    "pageId": "",
-    "pageAccessToken": ""
+    "pageId": "1123529120833383",
+    "pageAccessToken": "EAAnODCNPGpgBRPbkWREoFWGJjAVyi89OYaQQ4XjMexZBUiLTgOT0Xh5ttnFDFzoi6NnBtwrEj3dbrTv3s35ORR28ZBpjDdRQncTEvCPCX6uzaseFpsvHA7aqpMWs9ZCIpMg921RYNh4tcsEXg9Im7TwGZBd74N73nMwLp62HRhP04gKi3XRcr5n0rd8os2cq0PUC"
   },
   {
     "slug": "nba-memphis-grizzlies",
@@ -566,8 +566,8 @@
   },
   {
     "slug": "mlb-new-york-yankees",
-    "pageId": "",
-    "pageAccessToken": ""
+    "pageId": "1018906457977089",
+    "pageAccessToken": "EAAnODCNPGpgBRMAovWULqnDLTPQLs5tX2h7BSWJRBDgsfQEFX5T8EnMBKu7mTFgV2PDsyyxcj4DS8Sb48afl12fwzZCoZBDp5c1x9hi9ApvX1IwSvmk36PVfd3fNUE6uwqA3yjlVGZAh7zF8rSPubdpyY8w0TX69kCrdG0Y4P7j2RkixaL6bWM94KvFxJc0XPvR"
   },
   {
     "slug": "mlb-oakland-athletics",
@@ -623,5 +623,10 @@
     "slug": "mlb-washington-nationals",
     "pageId": "",
     "pageAccessToken": ""
+  },
+  {
+    "slug": "bragging-rights",
+    "pageId": "985065641355231",
+    "pageAccessToken": "EAAnODCNPGpgBRD8Mb7pcozzXwKLlNZAWnBVkkfun6v8IavPv0rvW9NnRQ2v5Wdpgh6ddptl0l2ZA5SLSsx7ZBZAQHzX9JsPhEuGar7qAZC20a1YOm98KKGGZBONtMPKuZC4TLmlOoiAlKS1lH0H2wdSYGE2ZA0otPRoLqAB77CzJees79ZBSvgVKniUtqOYPQXyyUEYYZB"
   }
 ]
