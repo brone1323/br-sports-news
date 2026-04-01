@@ -15,39 +15,39 @@ Assets for each team are in `public/facebook-assets/{team-slug}/`:
 
 | Day | Date | NFL | NBA | MLB | NHL |
 |-----|------|-----|-----|-----|-----|
-| 1 | Apr 2, 2026 | Arizona Cardinals | Atlanta Hawks | Arizona Diamondbacks | Anaheim Ducks |
-| 2 | Apr 3, 2026 | Atlanta Falcons | Boston Celtics | Atlanta Braves | Arizona Coyotes |
-| 3 | Apr 4, 2026 | Baltimore Ravens | Brooklyn Nets | Baltimore Orioles | Boston Bruins |
-| 4 | Apr 5, 2026 | Buffalo Bills | Charlotte Hornets | Boston Red Sox | Buffalo Sabres |
-| 5 | Apr 6, 2026 | Carolina Panthers | Chicago Bulls | Chicago Cubs | Calgary Flames |
-| 6 | Apr 7, 2026 | Chicago Bears | Cleveland Cavaliers | Chicago White Sox | Carolina Hurricanes |
-| 7 | Apr 8, 2026 | Cincinnati Bengals | Dallas Mavericks | Cincinnati Reds | Chicago Blackhawks |
-| 8 | Apr 9, 2026 | Cleveland Browns | Denver Nuggets | Cleveland Guardians | Colorado Avalanche |
-| 9 | Apr 10, 2026 | Dallas Cowboys | Detroit Pistons | Colorado Rockies | Columbus Blue Jackets |
-| 10 | Apr 11, 2026 | Denver Broncos | Golden State Warriors | Detroit Tigers | Dallas Stars |
-| 11 | Apr 12, 2026 | Detroit Lions | Houston Rockets | Houston Astros | Detroit Red Wings |
-| 12 | Apr 13, 2026 | Green Bay Packers | Indiana Pacers | Kansas City Royals | Edmonton Oilers |
-| 13 | Apr 14, 2026 | Houston Texans | Los Angeles Clippers | Los Angeles Angels | Florida Panthers |
-| 14 | Apr 15, 2026 | Indianapolis Colts | Los Angeles Lakers | Los Angeles Dodgers | Los Angeles Kings |
-| 15 | Apr 16, 2026 | Jacksonville Jaguars | Memphis Grizzlies | Miami Marlins | Minnesota Wild |
-| 16 | Apr 17, 2026 | Kansas City Chiefs | Miami Heat | Milwaukee Brewers | Montreal Canadiens |
-| 17 | Apr 18, 2026 | Las Vegas Raiders | Milwaukee Bucks | Minnesota Twins | Nashville Predators |
-| 18 | Apr 19, 2026 | Los Angeles Chargers | Minnesota Timberwolves | New York Mets | New Jersey Devils |
-| 19 | Apr 20, 2026 | Los Angeles Rams | New Orleans Pelicans | New York Yankees | New York Islanders |
-| 20 | Apr 21, 2026 | Miami Dolphins | New York Knicks | Oakland Athletics | New York Rangers |
-| 21 | Apr 22, 2026 | Minnesota Vikings | Oklahoma City Thunder | Philadelphia Phillies | Ottawa Senators |
-| 22 | Apr 23, 2026 | New England Patriots | Orlando Magic | Pittsburgh Pirates | Philadelphia Flyers |
-| 23 | Apr 24, 2026 | New Orleans Saints | Philadelphia 76ers | San Diego Padres | Pittsburgh Penguins |
-| 24 | Apr 25, 2026 | New York Giants | Phoenix Suns | San Francisco Giants | San Jose Sharks |
-| 25 | Apr 26, 2026 | New York Jets | Portland Trail Blazers | Seattle Mariners | Seattle Kraken |
-| 26 | Apr 27, 2026 | Philadelphia Eagles | Sacramento Kings | St. Louis Cardinals | St. Louis Blues |
-| 27 | Apr 28, 2026 | Pittsburgh Steelers | San Antonio Spurs | Tampa Bay Rays | Tampa Bay Lightning |
-| 28 | Apr 29, 2026 | San Francisco 49ers | Toronto Raptors | Texas Rangers | Toronto Maple Leafs |
-| 29 | Apr 30, 2026 | Seattle Seahawks | Utah Jazz | Toronto Blue Jays | Utah Hockey Club |
-| 30 | May 1, 2026 | Tampa Bay Buccaneers | Washington Wizards | Washington Nationals | Vancouver Canucks |
-| 31 | May 2, 2026 | Tennessee Titans | — | — | Vegas Golden Knights |
-| 32 | May 3, 2026 | Washington Commanders | — | — | Washington Capitals |
-| 33 | May 4, 2026 | — | — | — | Winnipeg Jets |
+| 1 | Apr 2, 2026 | Dallas Cowboys | Los Angeles Lakers | New York Yankees | Toronto Maple Leafs |
+| 2 | Apr 3, 2026 | New England Patriots | Golden State Warriors | Los Angeles Dodgers | Montreal Canadiens |
+| 3 | Apr 4, 2026 | New York Giants | New York Knicks | Boston Red Sox | New York Rangers |
+| 4 | Apr 5, 2026 | New York Jets | Chicago Bulls | Chicago Cubs | Chicago Blackhawks |
+| 5 | Apr 6, 2026 | Los Angeles Rams | Boston Celtics | San Francisco Giants | Boston Bruins |
+| 6 | Apr 7, 2026 | San Francisco 49ers | Brooklyn Nets | New York Mets | Detroit Red Wings |
+| 7 | Apr 8, 2026 | Chicago Bears | Houston Rockets | Houston Astros | Philadelphia Flyers |
+| 8 | Apr 9, 2026 | Philadelphia Eagles | Philadelphia 76ers | Philadelphia Phillies | Pittsburgh Penguins |
+| 9 | Apr 10, 2026 | Pittsburgh Steelers | Dallas Mavericks | St. Louis Cardinals | Vancouver Canucks |
+| 10 | Apr 11, 2026 | Green Bay Packers | Miami Heat | Atlanta Braves | Los Angeles Kings |
+| 11 | Apr 12, 2026 | Denver Broncos | Toronto Raptors | Texas Rangers | Edmonton Oilers |
+| 12 | Apr 13, 2026 | Seattle Seahawks | Phoenix Suns | Chicago White Sox | Calgary Flames |
+| 13 | Apr 14, 2026 | Miami Dolphins | Milwaukee Bucks | Washington Nationals | Dallas Stars |
+| 14 | Apr 15, 2026 | Las Vegas Raiders | Denver Nuggets | Seattle Mariners | Tampa Bay Lightning |
+| 15 | Apr 16, 2026 | Houston Texans | Atlanta Hawks | Detroit Tigers | Washington Capitals |
+| 16 | Apr 17, 2026 | Tampa Bay Buccaneers | Portland Trail Blazers | Minnesota Twins | Minnesota Wild |
+| 17 | Apr 18, 2026 | Baltimore Ravens | Sacramento Kings | San Diego Padres | Colorado Avalanche |
+| 18 | Apr 19, 2026 | Minnesota Vikings | Minnesota Timberwolves | Toronto Blue Jays | Vegas Golden Knights |
+| 19 | Apr 20, 2026 | Kansas City Chiefs | Los Angeles Clippers | Los Angeles Angels | New York Islanders |
+| 20 | Apr 21, 2026 | Atlanta Falcons | San Antonio Spurs | Milwaukee Brewers | St. Louis Blues |
+| 21 | Apr 22, 2026 | Los Angeles Chargers | Washington Wizards | Cleveland Guardians | Nashville Predators |
+| 22 | Apr 23, 2026 | Washington Commanders | Cleveland Cavaliers | Tampa Bay Rays | Carolina Hurricanes |
+| 23 | Apr 24, 2026 | New Orleans Saints | Detroit Pistons | Arizona Diamondbacks | Ottawa Senators |
+| 24 | Apr 25, 2026 | Cleveland Browns | Indiana Pacers | Baltimore Orioles | Florida Panthers |
+| 25 | Apr 26, 2026 | Indianapolis Colts | Oklahoma City Thunder | Cincinnati Reds | San Jose Sharks |
+| 26 | Apr 27, 2026 | Arizona Cardinals | New Orleans Pelicans | Pittsburgh Pirates | New Jersey Devils |
+| 27 | Apr 28, 2026 | Detroit Lions | Charlotte Hornets | Kansas City Royals | Winnipeg Jets |
+| 28 | Apr 29, 2026 | Tennessee Titans | Orlando Magic | Colorado Rockies | Seattle Kraken |
+| 29 | Apr 30, 2026 | Carolina Panthers | Memphis Grizzlies | Miami Marlins | Buffalo Sabres |
+| 30 | May 1, 2026 | Cincinnati Bengals | Utah Jazz | Oakland Athletics | Columbus Blue Jackets |
+| 31 | May 2, 2026 | Jacksonville Jaguars | — | — | Anaheim Ducks |
+| 32 | May 3, 2026 | Buffalo Bills | — | — | Arizona Coyotes |
+| 33 | May 4, 2026 | — | — | — | Utah Hockey Club |
 
 ---
 
@@ -57,146 +57,146 @@ Assets for each team are in `public/facebook-assets/{team-slug}/`:
 
 | # | Date | Team | Slug | Profile | Cover |
 |---|------|------|------|---------|-------|
-| 1 | Apr 2 | Arizona Cardinals | `nfl-arizona-cardinals` | ✅ | ✅ |
-| 2 | Apr 3 | Atlanta Falcons | `nfl-atlanta-falcons` | ✅ | ✅ |
-| 3 | Apr 4 | Baltimore Ravens | `nfl-baltimore-ravens` | ✅ | ✅ |
-| 4 | Apr 5 | Buffalo Bills | `nfl-buffalo-bills` | ✅ | ✅ |
-| 5 | Apr 6 | Carolina Panthers | `nfl-carolina-panthers` | ✅ | ✅ |
-| 6 | Apr 7 | Chicago Bears | `nfl-chicago-bears` | ✅ | ✅ |
-| 7 | Apr 8 | Cincinnati Bengals | `nfl-cincinnati-bengals` | ✅ | ✅ |
-| 8 | Apr 9 | Cleveland Browns | `nfl-cleveland-browns` | ✅ | ✅ |
-| 9 | Apr 10 | Dallas Cowboys | `nfl-dallas-cowboys` | ✅ | ✅ |
-| 10 | Apr 11 | Denver Broncos | `nfl-denver-broncos` | ✅ | ✅ |
-| 11 | Apr 12 | Detroit Lions | `nfl-detroit-lions` | ✅ | ✅ |
-| 12 | Apr 13 | Green Bay Packers | `nfl-green-bay-packers` | ✅ | ✅ |
-| 13 | Apr 14 | Houston Texans | `nfl-houston-texans` | ✅ | ✅ |
-| 14 | Apr 15 | Indianapolis Colts | `nfl-indianapolis-colts` | ✅ | ✅ |
-| 15 | Apr 16 | Jacksonville Jaguars | `nfl-jacksonville-jaguars` | ✅ | ✅ |
-| 16 | Apr 17 | Kansas City Chiefs | `nfl-kansas-city-chiefs` | ✅ | ✅ |
-| 17 | Apr 18 | Las Vegas Raiders | `nfl-las-vegas-raiders` | ✅ | ✅ |
-| 18 | Apr 19 | Los Angeles Chargers | `nfl-los-angeles-chargers` | ✅ | ✅ |
-| 19 | Apr 20 | Los Angeles Rams | `nfl-los-angeles-rams` | ✅ | ✅ |
-| 20 | Apr 21 | Miami Dolphins | `nfl-miami-dolphins` | ✅ | ✅ |
-| 21 | Apr 22 | Minnesota Vikings | `nfl-minnesota-vikings` | ✅ | ✅ |
-| 22 | Apr 23 | New England Patriots | `nfl-new-england-patriots` | ✅ | ✅ |
+| 1 | Apr 2 | Dallas Cowboys | `nfl-dallas-cowboys` | ✅ | ✅ |
+| 2 | Apr 3 | New England Patriots | `nfl-new-england-patriots` | ✅ | ✅ |
+| 3 | Apr 4 | New York Giants | `nfl-new-york-giants` | ✅ | ✅ |
+| 4 | Apr 5 | New York Jets | `nfl-new-york-jets` | ✅ | ✅ |
+| 5 | Apr 6 | Los Angeles Rams | `nfl-los-angeles-rams` | ✅ | ✅ |
+| 6 | Apr 7 | San Francisco 49ers | `nfl-san-francisco-49ers` | ✅ | ✅ |
+| 7 | Apr 8 | Chicago Bears | `nfl-chicago-bears` | ✅ | ✅ |
+| 8 | Apr 9 | Philadelphia Eagles | `nfl-philadelphia-eagles` | ✅ | ✅ |
+| 9 | Apr 10 | Pittsburgh Steelers | `nfl-pittsburgh-steelers` | ✅ | ✅ |
+| 10 | Apr 11 | Green Bay Packers | `nfl-green-bay-packers` | ✅ | ✅ |
+| 11 | Apr 12 | Denver Broncos | `nfl-denver-broncos` | ✅ | ✅ |
+| 12 | Apr 13 | Seattle Seahawks | `nfl-seattle-seahawks` | ✅ | ✅ |
+| 13 | Apr 14 | Miami Dolphins | `nfl-miami-dolphins` | ✅ | ✅ |
+| 14 | Apr 15 | Las Vegas Raiders | `nfl-las-vegas-raiders` | ✅ | ✅ |
+| 15 | Apr 16 | Houston Texans | `nfl-houston-texans` | ✅ | ✅ |
+| 16 | Apr 17 | Tampa Bay Buccaneers | `nfl-tampa-bay-buccaneers` | ✅ | ✅ |
+| 17 | Apr 18 | Baltimore Ravens | `nfl-baltimore-ravens` | ✅ | ✅ |
+| 18 | Apr 19 | Minnesota Vikings | `nfl-minnesota-vikings` | ✅ | ✅ |
+| 19 | Apr 20 | Kansas City Chiefs | `nfl-kansas-city-chiefs` | ✅ | ✅ |
+| 20 | Apr 21 | Atlanta Falcons | `nfl-atlanta-falcons` | ✅ | ✅ |
+| 21 | Apr 22 | Los Angeles Chargers | `nfl-los-angeles-chargers` | ✅ | ✅ |
+| 22 | Apr 23 | Washington Commanders | `nfl-washington-commanders` | ✅ | ✅ |
 | 23 | Apr 24 | New Orleans Saints | `nfl-new-orleans-saints` | ✅ | ✅ |
-| 24 | Apr 25 | New York Giants | `nfl-new-york-giants` | ✅ | ✅ |
-| 25 | Apr 26 | New York Jets | `nfl-new-york-jets` | ✅ | ✅ |
-| 26 | Apr 27 | Philadelphia Eagles | `nfl-philadelphia-eagles` | ✅ | ✅ |
-| 27 | Apr 28 | Pittsburgh Steelers | `nfl-pittsburgh-steelers` | ✅ | ✅ |
-| 28 | Apr 29 | San Francisco 49ers | `nfl-san-francisco-49ers` | ✅ | ✅ |
-| 29 | Apr 30 | Seattle Seahawks | `nfl-seattle-seahawks` | ✅ | ✅ |
-| 30 | May 1 | Tampa Bay Buccaneers | `nfl-tampa-bay-buccaneers` | ✅ | ✅ |
-| 31 | May 2 | Tennessee Titans | `nfl-tennessee-titans` | ✅ | ✅ |
-| 32 | May 3 | Washington Commanders | `nfl-washington-commanders` | ✅ | ✅ |
+| 24 | Apr 25 | Cleveland Browns | `nfl-cleveland-browns` | ✅ | ✅ |
+| 25 | Apr 26 | Indianapolis Colts | `nfl-indianapolis-colts` | ✅ | ✅ |
+| 26 | Apr 27 | Arizona Cardinals | `nfl-arizona-cardinals` | ✅ | ✅ |
+| 27 | Apr 28 | Detroit Lions | `nfl-detroit-lions` | ✅ | ✅ |
+| 28 | Apr 29 | Tennessee Titans | `nfl-tennessee-titans` | ✅ | ✅ |
+| 29 | Apr 30 | Carolina Panthers | `nfl-carolina-panthers` | ✅ | ✅ |
+| 30 | May 1 | Cincinnati Bengals | `nfl-cincinnati-bengals` | ✅ | ✅ |
+| 31 | May 2 | Jacksonville Jaguars | `nfl-jacksonville-jaguars` | ✅ | ✅ |
+| 32 | May 3 | Buffalo Bills | `nfl-buffalo-bills` | ✅ | ✅ |
 
 ### NBA — 30 teams (Apr 2 – May 1)
 
 | # | Date | Team | Slug | Profile | Cover |
 |---|------|------|------|---------|-------|
-| 1 | Apr 2 | Atlanta Hawks | `nba-atlanta-hawks` | ✅ | ✅ |
-| 2 | Apr 3 | Boston Celtics | `nba-boston-celtics` | ✅ | ✅ |
-| 3 | Apr 4 | Brooklyn Nets | `nba-brooklyn-nets` | ✅ | ✅ |
-| 4 | Apr 5 | Charlotte Hornets | `nba-charlotte-hornets` | ✅ | ✅ |
-| 5 | Apr 6 | Chicago Bulls | `nba-chicago-bulls` | ✅ | ✅ |
-| 6 | Apr 7 | Cleveland Cavaliers | `nba-cleveland-cavaliers` | ✅ | ✅ |
-| 7 | Apr 8 | Dallas Mavericks | `nba-dallas-mavericks` | ✅ | ✅ |
-| 8 | Apr 9 | Denver Nuggets | `nba-denver-nuggets` | ✅ | ✅ |
-| 9 | Apr 10 | Detroit Pistons | `nba-detroit-pistons` | ✅ | ✅ |
-| 10 | Apr 11 | Golden State Warriors | `nba-golden-state-warriors` | ✅ | ✅ |
-| 11 | Apr 12 | Houston Rockets | `nba-houston-rockets` | ✅ | ✅ |
-| 12 | Apr 13 | Indiana Pacers | `nba-indiana-pacers` | ✅ | ✅ |
-| 13 | Apr 14 | Los Angeles Clippers | `nba-los-angeles-clippers` | ✅ | ✅ |
-| 14 | Apr 15 | Los Angeles Lakers | `nba-los-angeles-lakers` | ✅ | ✅ |
-| 15 | Apr 16 | Memphis Grizzlies | `nba-memphis-grizzlies` | ✅ | ✅ |
-| 16 | Apr 17 | Miami Heat | `nba-miami-heat` | ✅ | ✅ |
-| 17 | Apr 18 | Milwaukee Bucks | `nba-milwaukee-bucks` | ✅ | ✅ |
+| 1 | Apr 2 | Los Angeles Lakers | `nba-los-angeles-lakers` | ✅ | ✅ |
+| 2 | Apr 3 | Golden State Warriors | `nba-golden-state-warriors` | ✅ | ✅ |
+| 3 | Apr 4 | New York Knicks | `nba-new-york-knicks` | ✅ | ✅ |
+| 4 | Apr 5 | Chicago Bulls | `nba-chicago-bulls` | ✅ | ✅ |
+| 5 | Apr 6 | Boston Celtics | `nba-boston-celtics` | ✅ | ✅ |
+| 6 | Apr 7 | Brooklyn Nets | `nba-brooklyn-nets` | ✅ | ✅ |
+| 7 | Apr 8 | Houston Rockets | `nba-houston-rockets` | ✅ | ✅ |
+| 8 | Apr 9 | Philadelphia 76ers | `nba-philadelphia-76ers` | ✅ | ✅ |
+| 9 | Apr 10 | Dallas Mavericks | `nba-dallas-mavericks` | ✅ | ✅ |
+| 10 | Apr 11 | Miami Heat | `nba-miami-heat` | ✅ | ✅ |
+| 11 | Apr 12 | Toronto Raptors | `nba-toronto-raptors` | ✅ | ✅ |
+| 12 | Apr 13 | Phoenix Suns | `nba-phoenix-suns` | ✅ | ✅ |
+| 13 | Apr 14 | Milwaukee Bucks | `nba-milwaukee-bucks` | ✅ | ✅ |
+| 14 | Apr 15 | Denver Nuggets | `nba-denver-nuggets` | ✅ | ✅ |
+| 15 | Apr 16 | Atlanta Hawks | `nba-atlanta-hawks` | ✅ | ✅ |
+| 16 | Apr 17 | Portland Trail Blazers | `nba-portland-trail-blazers` | ✅ | ✅ |
+| 17 | Apr 18 | Sacramento Kings | `nba-sacramento-kings` | ✅ | ✅ |
 | 18 | Apr 19 | Minnesota Timberwolves | `nba-minnesota-timberwolves` | ✅ | ✅ |
-| 19 | Apr 20 | New Orleans Pelicans | `nba-new-orleans-pelicans` | ✅ | ✅ |
-| 20 | Apr 21 | New York Knicks | `nba-new-york-knicks` | ✅ | ✅ |
-| 21 | Apr 22 | Oklahoma City Thunder | `nba-oklahoma-city-thunder` | ✅ | ✅ |
-| 22 | Apr 23 | Orlando Magic | `nba-orlando-magic` | ✅ | ✅ |
-| 23 | Apr 24 | Philadelphia 76ers | `nba-philadelphia-76ers` | ✅ | ✅ |
-| 24 | Apr 25 | Phoenix Suns | `nba-phoenix-suns` | ✅ | ✅ |
-| 25 | Apr 26 | Portland Trail Blazers | `nba-portland-trail-blazers` | ✅ | ✅ |
-| 26 | Apr 27 | Sacramento Kings | `nba-sacramento-kings` | ✅ | ✅ |
-| 27 | Apr 28 | San Antonio Spurs | `nba-san-antonio-spurs` | ✅ | ✅ |
-| 28 | Apr 29 | Toronto Raptors | `nba-toronto-raptors` | ✅ | ✅ |
-| 29 | Apr 30 | Utah Jazz | `nba-utah-jazz` | ✅ | ✅ |
-| 30 | May 1 | Washington Wizards | `nba-washington-wizards` | ✅ | ✅ |
+| 19 | Apr 20 | Los Angeles Clippers | `nba-los-angeles-clippers` | ✅ | ✅ |
+| 20 | Apr 21 | San Antonio Spurs | `nba-san-antonio-spurs` | ✅ | ✅ |
+| 21 | Apr 22 | Washington Wizards | `nba-washington-wizards` | ✅ | ✅ |
+| 22 | Apr 23 | Cleveland Cavaliers | `nba-cleveland-cavaliers` | ✅ | ✅ |
+| 23 | Apr 24 | Detroit Pistons | `nba-detroit-pistons` | ✅ | ✅ |
+| 24 | Apr 25 | Indiana Pacers | `nba-indiana-pacers` | ✅ | ✅ |
+| 25 | Apr 26 | Oklahoma City Thunder | `nba-oklahoma-city-thunder` | ✅ | ✅ |
+| 26 | Apr 27 | New Orleans Pelicans | `nba-new-orleans-pelicans` | ✅ | ✅ |
+| 27 | Apr 28 | Charlotte Hornets | `nba-charlotte-hornets` | ✅ | ✅ |
+| 28 | Apr 29 | Orlando Magic | `nba-orlando-magic` | ✅ | ✅ |
+| 29 | Apr 30 | Memphis Grizzlies | `nba-memphis-grizzlies` | ✅ | ✅ |
+| 30 | May 1 | Utah Jazz | `nba-utah-jazz` | ✅ | ✅ |
 
 ### MLB — 30 teams (Apr 2 – May 1)
 
 | # | Date | Team | Slug | Profile | Cover |
 |---|------|------|------|---------|-------|
-| 1 | Apr 2 | Arizona Diamondbacks | `mlb-arizona-diamondbacks` | ✅ | ✅ |
-| 2 | Apr 3 | Atlanta Braves | `mlb-atlanta-braves` | ✅ | ✅ |
-| 3 | Apr 4 | Baltimore Orioles | `mlb-baltimore-orioles` | ✅ | ✅ |
-| 4 | Apr 5 | Boston Red Sox | `mlb-boston-red-sox` | ✅ | ✅ |
-| 5 | Apr 6 | Chicago Cubs | `mlb-chicago-cubs` | ✅ | ✅ |
-| 6 | Apr 7 | Chicago White Sox | `mlb-chicago-white-sox` | ✅ | ✅ |
-| 7 | Apr 8 | Cincinnati Reds | `mlb-cincinnati-reds` | ✅ | ✅ |
-| 8 | Apr 9 | Cleveland Guardians | `mlb-cleveland-guardians` | ✅ | ✅ |
-| 9 | Apr 10 | Colorado Rockies | `mlb-colorado-rockies` | ✅ | ✅ |
-| 10 | Apr 11 | Detroit Tigers | `mlb-detroit-tigers` | ✅ | ✅ |
-| 11 | Apr 12 | Houston Astros | `mlb-houston-astros` | ✅ | ✅ |
-| 12 | Apr 13 | Kansas City Royals | `mlb-kansas-city-royals` | ✅ | ✅ |
-| 13 | Apr 14 | Los Angeles Angels | `mlb-los-angeles-angels` | ✅ | ✅ |
-| 14 | Apr 15 | Los Angeles Dodgers | `mlb-los-angeles-dodgers` | ✅ | ✅ |
-| 15 | Apr 16 | Miami Marlins | `mlb-miami-marlins` | ✅ | ✅ |
-| 16 | Apr 17 | Milwaukee Brewers | `mlb-milwaukee-brewers` | ✅ | ✅ |
-| 17 | Apr 18 | Minnesota Twins | `mlb-minnesota-twins` | ✅ | ✅ |
-| 18 | Apr 19 | New York Mets | `mlb-new-york-mets` | ✅ | ✅ |
-| 19 | Apr 20 | New York Yankees | `mlb-new-york-yankees` | ✅ | ✅ |
-| 20 | Apr 21 | Oakland Athletics | `mlb-oakland-athletics` | ✅ | ✅ |
-| 21 | Apr 22 | Philadelphia Phillies | `mlb-philadelphia-phillies` | ✅ | ✅ |
-| 22 | Apr 23 | Pittsburgh Pirates | `mlb-pittsburgh-pirates` | ✅ | ✅ |
-| 23 | Apr 24 | San Diego Padres | `mlb-san-diego-padres` | ✅ | ✅ |
-| 24 | Apr 25 | San Francisco Giants | `mlb-san-francisco-giants` | ✅ | ✅ |
-| 25 | Apr 26 | Seattle Mariners | `mlb-seattle-mariners` | ✅ | ✅ |
-| 26 | Apr 27 | St. Louis Cardinals | `mlb-st-louis-cardinals` | ✅ | ✅ |
-| 27 | Apr 28 | Tampa Bay Rays | `mlb-tampa-bay-rays` | ✅ | ✅ |
-| 28 | Apr 29 | Texas Rangers | `mlb-texas-rangers` | ✅ | ✅ |
-| 29 | Apr 30 | Toronto Blue Jays | `mlb-toronto-blue-jays` | ✅ | ✅ |
-| 30 | May 1 | Washington Nationals | `mlb-washington-nationals` | ✅ | ✅ |
+| 1 | Apr 2 | New York Yankees | `mlb-new-york-yankees` | ✅ | ✅ |
+| 2 | Apr 3 | Los Angeles Dodgers | `mlb-los-angeles-dodgers` | ✅ | ✅ |
+| 3 | Apr 4 | Boston Red Sox | `mlb-boston-red-sox` | ✅ | ✅ |
+| 4 | Apr 5 | Chicago Cubs | `mlb-chicago-cubs` | ✅ | ✅ |
+| 5 | Apr 6 | San Francisco Giants | `mlb-san-francisco-giants` | ✅ | ✅ |
+| 6 | Apr 7 | New York Mets | `mlb-new-york-mets` | ✅ | ✅ |
+| 7 | Apr 8 | Houston Astros | `mlb-houston-astros` | ✅ | ✅ |
+| 8 | Apr 9 | Philadelphia Phillies | `mlb-philadelphia-phillies` | ✅ | ✅ |
+| 9 | Apr 10 | St. Louis Cardinals | `mlb-st-louis-cardinals` | ✅ | ✅ |
+| 10 | Apr 11 | Atlanta Braves | `mlb-atlanta-braves` | ✅ | ✅ |
+| 11 | Apr 12 | Texas Rangers | `mlb-texas-rangers` | ✅ | ✅ |
+| 12 | Apr 13 | Chicago White Sox | `mlb-chicago-white-sox` | ✅ | ✅ |
+| 13 | Apr 14 | Washington Nationals | `mlb-washington-nationals` | ✅ | ✅ |
+| 14 | Apr 15 | Seattle Mariners | `mlb-seattle-mariners` | ✅ | ✅ |
+| 15 | Apr 16 | Detroit Tigers | `mlb-detroit-tigers` | ✅ | ✅ |
+| 16 | Apr 17 | Minnesota Twins | `mlb-minnesota-twins` | ✅ | ✅ |
+| 17 | Apr 18 | San Diego Padres | `mlb-san-diego-padres` | ✅ | ✅ |
+| 18 | Apr 19 | Toronto Blue Jays | `mlb-toronto-blue-jays` | ✅ | ✅ |
+| 19 | Apr 20 | Los Angeles Angels | `mlb-los-angeles-angels` | ✅ | ✅ |
+| 20 | Apr 21 | Milwaukee Brewers | `mlb-milwaukee-brewers` | ✅ | ✅ |
+| 21 | Apr 22 | Cleveland Guardians | `mlb-cleveland-guardians` | ✅ | ✅ |
+| 22 | Apr 23 | Tampa Bay Rays | `mlb-tampa-bay-rays` | ✅ | ✅ |
+| 23 | Apr 24 | Arizona Diamondbacks | `mlb-arizona-diamondbacks` | ✅ | ✅ |
+| 24 | Apr 25 | Baltimore Orioles | `mlb-baltimore-orioles` | ✅ | ✅ |
+| 25 | Apr 26 | Cincinnati Reds | `mlb-cincinnati-reds` | ✅ | ✅ |
+| 26 | Apr 27 | Pittsburgh Pirates | `mlb-pittsburgh-pirates` | ✅ | ✅ |
+| 27 | Apr 28 | Kansas City Royals | `mlb-kansas-city-royals` | ✅ | ✅ |
+| 28 | Apr 29 | Colorado Rockies | `mlb-colorado-rockies` | ✅ | ✅ |
+| 29 | Apr 30 | Miami Marlins | `mlb-miami-marlins` | ✅ | ✅ |
+| 30 | May 1 | Oakland Athletics | `mlb-oakland-athletics` | ✅ | ✅ |
 
 ### NHL — 33 teams (Apr 2 – May 4)
 
 | # | Date | Team | Slug | Profile | Cover |
 |---|------|------|------|---------|-------|
-| 1 | Apr 2 | Anaheim Ducks | `nhl-anaheim-ducks` | ✅ | ✅ |
-| 2 | Apr 3 | Arizona Coyotes | `nhl-arizona-coyotes` | ✅ | ✅ |
-| 3 | Apr 4 | Boston Bruins | `nhl-boston-bruins` | ✅ | ✅ |
-| 4 | Apr 5 | Buffalo Sabres | `nhl-buffalo-sabres` | ✅ | ✅ |
-| 5 | Apr 6 | Calgary Flames | `nhl-calgary-flames` | ✅ | ✅ |
-| 6 | Apr 7 | Carolina Hurricanes | `nhl-carolina-hurricanes` | ✅ | ✅ |
-| 7 | Apr 8 | Chicago Blackhawks | `nhl-chicago-blackhawks` | ✅ | ✅ |
-| 8 | Apr 9 | Colorado Avalanche | `nhl-colorado-avalanche` | ✅ | ✅ |
-| 9 | Apr 10 | Columbus Blue Jackets | `nhl-columbus-blue-jackets` | ✅ | ✅ |
-| 10 | Apr 11 | Dallas Stars | `nhl-dallas-stars` | ✅ | ✅ |
-| 11 | Apr 12 | Detroit Red Wings | `nhl-detroit-red-wings` | ✅ | ✅ |
-| 12 | Apr 13 | Edmonton Oilers | `nhl-edmonton-oilers` | ✅ | ✅ |
-| 13 | Apr 14 | Florida Panthers | `nhl-florida-panthers` | ✅ | ✅ |
-| 14 | Apr 15 | Los Angeles Kings | `nhl-los-angeles-kings` | ✅ | ✅ |
-| 15 | Apr 16 | Minnesota Wild | `nhl-minnesota-wild` | ✅ | ✅ |
-| 16 | Apr 17 | Montreal Canadiens | `nhl-montreal-canadiens` | ✅ | ✅ |
-| 17 | Apr 18 | Nashville Predators | `nhl-nashville-predators` | ✅ | ✅ |
-| 18 | Apr 19 | New Jersey Devils | `nhl-new-jersey-devils` | ✅ | ✅ |
+| 1 | Apr 2 | Toronto Maple Leafs | `nhl-toronto-maple-leafs` | ✅ | ✅ |
+| 2 | Apr 3 | Montreal Canadiens | `nhl-montreal-canadiens` | ✅ | ✅ |
+| 3 | Apr 4 | New York Rangers | `nhl-new-york-rangers` | ✅ | ✅ |
+| 4 | Apr 5 | Chicago Blackhawks | `nhl-chicago-blackhawks` | ✅ | ✅ |
+| 5 | Apr 6 | Boston Bruins | `nhl-boston-bruins` | ✅ | ✅ |
+| 6 | Apr 7 | Detroit Red Wings | `nhl-detroit-red-wings` | ✅ | ✅ |
+| 7 | Apr 8 | Philadelphia Flyers | `nhl-philadelphia-flyers` | ✅ | ✅ |
+| 8 | Apr 9 | Pittsburgh Penguins | `nhl-pittsburgh-penguins` | ✅ | ✅ |
+| 9 | Apr 10 | Vancouver Canucks | `nhl-vancouver-canucks` | ✅ | ✅ |
+| 10 | Apr 11 | Los Angeles Kings | `nhl-los-angeles-kings` | ✅ | ✅ |
+| 11 | Apr 12 | Edmonton Oilers | `nhl-edmonton-oilers` | ✅ | ✅ |
+| 12 | Apr 13 | Calgary Flames | `nhl-calgary-flames` | ✅ | ✅ |
+| 13 | Apr 14 | Dallas Stars | `nhl-dallas-stars` | ✅ | ✅ |
+| 14 | Apr 15 | Tampa Bay Lightning | `nhl-tampa-bay-lightning` | ✅ | ✅ |
+| 15 | Apr 16 | Washington Capitals | `nhl-washington-capitals` | ✅ | ✅ |
+| 16 | Apr 17 | Minnesota Wild | `nhl-minnesota-wild` | ✅ | ✅ |
+| 17 | Apr 18 | Colorado Avalanche | `nhl-colorado-avalanche` | ✅ | ✅ |
+| 18 | Apr 19 | Vegas Golden Knights | `nhl-vegas-golden-knights` | ✅ | ✅ |
 | 19 | Apr 20 | New York Islanders | `nhl-new-york-islanders` | ✅ | ✅ |
-| 20 | Apr 21 | New York Rangers | `nhl-new-york-rangers` | ✅ | ✅ |
-| 21 | Apr 22 | Ottawa Senators | `nhl-ottawa-senators` | ✅ | ✅ |
-| 22 | Apr 23 | Philadelphia Flyers | `nhl-philadelphia-flyers` | ✅ | ✅ |
-| 23 | Apr 24 | Pittsburgh Penguins | `nhl-pittsburgh-penguins` | ✅ | ✅ |
-| 24 | Apr 25 | San Jose Sharks | `nhl-san-jose-sharks` | ✅ | ✅ |
-| 25 | Apr 26 | Seattle Kraken | `nhl-seattle-kraken` | ✅ | ✅ |
-| 26 | Apr 27 | St. Louis Blues | `nhl-st-louis-blues` | ✅ | ✅ |
-| 27 | Apr 28 | Tampa Bay Lightning | `nhl-tampa-bay-lightning` | ✅ | ✅ |
-| 28 | Apr 29 | Toronto Maple Leafs | `nhl-toronto-maple-leafs` | ✅ | ✅ |
-| 29 | Apr 30 | Utah Hockey Club | `nhl-utah-hockey-club` | ✅ | ✅ |
-| 30 | May 1 | Vancouver Canucks | `nhl-vancouver-canucks` | ✅ | ✅ |
-| 31 | May 2 | Vegas Golden Knights | `nhl-vegas-golden-knights` | ✅ | ✅ |
-| 32 | May 3 | Washington Capitals | `nhl-washington-capitals` | ✅ | ✅ |
-| 33 | May 4 | Winnipeg Jets | `nhl-winnipeg-jets` | ✅ | ✅ |
+| 20 | Apr 21 | St. Louis Blues | `nhl-st-louis-blues` | ✅ | ✅ |
+| 21 | Apr 22 | Nashville Predators | `nhl-nashville-predators` | ✅ | ✅ |
+| 22 | Apr 23 | Carolina Hurricanes | `nhl-carolina-hurricanes` | ✅ | ✅ |
+| 23 | Apr 24 | Ottawa Senators | `nhl-ottawa-senators` | ✅ | ✅ |
+| 24 | Apr 25 | Florida Panthers | `nhl-florida-panthers` | ✅ | ✅ |
+| 25 | Apr 26 | San Jose Sharks | `nhl-san-jose-sharks` | ✅ | ✅ |
+| 26 | Apr 27 | New Jersey Devils | `nhl-new-jersey-devils` | ✅ | ✅ |
+| 27 | Apr 28 | Winnipeg Jets | `nhl-winnipeg-jets` | ✅ | ✅ |
+| 28 | Apr 29 | Seattle Kraken | `nhl-seattle-kraken` | ✅ | ✅ |
+| 29 | Apr 30 | Buffalo Sabres | `nhl-buffalo-sabres` | ✅ | ✅ |
+| 30 | May 1 | Columbus Blue Jackets | `nhl-columbus-blue-jackets` | ✅ | ✅ |
+| 31 | May 2 | Anaheim Ducks | `nhl-anaheim-ducks` | ✅ | ✅ |
+| 32 | May 3 | Arizona Coyotes | `nhl-arizona-coyotes` | ✅ | ✅ |
+| 33 | May 4 | Utah Hockey Club | `nhl-utah-hockey-club` | ✅ | ✅ |
 
 ---
 
