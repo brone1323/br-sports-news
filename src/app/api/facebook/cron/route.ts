@@ -40,7 +40,8 @@ export async function GET(request: NextRequest) {
       : articles
     const message = buildPostMessage(team, displayArticles)
 
-    const result = await postToFacebook(entry.pageId, entry.pageAccessToken, message, team.logoUrl)
+    const imageUrl = `https://bragging-rights.com/facebook-assets/${entry.slug}/profile.png`
+    const result = await postToFacebook(entry.pageId, entry.pageAccessToken, message, imageUrl)
     if (result.success) {
       posted++
     } else {
