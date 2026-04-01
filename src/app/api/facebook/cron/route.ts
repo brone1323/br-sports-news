@@ -2,7 +2,11 @@ import { NextRequest, NextResponse } from 'next/server'
 import { getTeam } from '@/lib/teams'
 import { fetchTeamNews } from '@/lib/news'
 import { buildPostMessage, postToFacebook } from '@/lib/facebook'
+import { rewriteArticle, sleep } from '@/lib/gemini'
 import pages from '@/data/facebook-pages.json'
+
+// Delay between teams to avoid hammering the Gemini API
+const INTER_TEAM_DELAY_MS = 500
 
 export async function GET(request: NextRequest) {
   const authHeader = request.headers.get('authorization')
@@ -30,7 +34,17 @@ export async function GET(request: NextRequest) {
     }
 
     const articles = await fetchTeamNews(team)
-    const message = buildPostMessage(team, articles)
+
+    // Rewrite the lead article via Gemini — required before publishing
+    const rewritten = await rewriteArticle(articles[0])
+    if (!rewritten) {
+      skipped++
+      errors.push(`${entry.slug}: skipped — Gemini rewrite failed`)
+      continue
+    }
+
+    const rewrittenArticles = [rewritten, ...articles.slice(1)]
+    const message = buildPostMessage(team, rewrittenArticles)
 
     const result = await postToFacebook(entry.pageId, entry.pageAccessToken, message, team.logoUrl)
     if (result.success) {
@@ -38,6 +52,9 @@ export async function GET(request: NextRequest) {
     } else {
       errors.push(`${entry.slug}: ${JSON.stringify(result.error)}`)
     }
+
+    // Throttle between teams to stay within Gemini rate limits
+    await sleep(INTER_TEAM_DELAY_MS)
   }
 
   return NextResponse.json({ posted, skipped, errors })
