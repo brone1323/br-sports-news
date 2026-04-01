@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * Generates Facebook profile pictures (360x360) and cover photos (820x312)
- * for the top 31 BR Sports News teams by US market size.
+ * for all 125 BR Sports News teams (NFL, NBA, MLB, NHL).
  */
 
 const { createCanvas } = require('@napi-rs/canvas');
@@ -9,45 +9,6 @@ const fs = require('fs');
 const path = require('path');
 
 const teams = require('../src/data/teams.json');
-
-// Top 31 teams by US market size
-const TARGET_SLUGS = [
-  // NFL (10)
-  'nfl-dallas-cowboys',
-  'nfl-new-england-patriots',
-  'nfl-philadelphia-eagles',
-  'nfl-san-francisco-49ers',
-  'nfl-green-bay-packers',
-  'nfl-kansas-city-chiefs',
-  'nfl-pittsburgh-steelers',
-  'nfl-new-york-giants',
-  'nfl-chicago-bears',
-  'nfl-baltimore-ravens',
-  // NBA (8)
-  'nba-los-angeles-lakers',
-  'nba-golden-state-warriors',
-  'nba-boston-celtics',
-  'nba-new-york-knicks',
-  'nba-chicago-bulls',
-  'nba-brooklyn-nets',
-  'nba-miami-heat',
-  'nba-philadelphia-76ers',
-  // MLB (7)
-  'mlb-new-york-yankees',
-  'mlb-los-angeles-dodgers',
-  'mlb-boston-red-sox',
-  'mlb-chicago-cubs',
-  'mlb-new-york-mets',
-  'mlb-san-francisco-giants',
-  'mlb-houston-astros',
-  // NHL (6)
-  'nhl-new-york-rangers',
-  'nhl-boston-bruins',
-  'nhl-chicago-blackhawks',
-  'nhl-toronto-maple-leafs',
-  'nhl-pittsburgh-penguins',
-  'nhl-montreal-canadiens',
-];
 
 /** Parse a hex color into {r,g,b} */
 function hexToRgb(hex) {
@@ -314,11 +275,7 @@ function generateCover(team) {
 // ─────────────────────────────────────────────────────────────────────────────
 // MAIN
 // ─────────────────────────────────────────────────────────────────────────────
-const targetTeams = TARGET_SLUGS.map(slug => {
-  const t = teams.find(x => x.slug === slug);
-  if (!t) throw new Error(`Team not found: ${slug}`);
-  return t;
-});
+const targetTeams = teams;
 
 const outBase = path.join(__dirname, '..', 'public', 'facebook-assets');
 let generated = 0;
