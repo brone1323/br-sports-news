@@ -1,5 +1,6 @@
 import Anthropic from '@anthropic-ai/sdk'
-import { Article } from './news'
+import { Article, fetchTeamNews } from './news'
+import { Team } from './teams'
 
 const client = new Anthropic()
 
@@ -72,4 +73,25 @@ Original excerpt: ${article.excerpt}`,
   }
 
   return null
+}
+
+export async function fetchAndRewriteTeamNews(team: Team): Promise<Article[]> {
+  const raw = await fetchTeamNews(team)
+
+  // Filter out the synthetic fallback article (no real RSS content to rewrite)
+  const realArticles = raw.filter(a => a.url !== '#')
+  if (realArticles.length === 0) return []
+
+  // Rewrite all articles in parallel; collect only successes
+  const results = await Promise.allSettled(
+    realArticles.map(async (article) => {
+      const rewritten = await rewriteArticle(article)
+      if (!rewritten) throw new Error('rewrite failed')
+      return { ...article, headline: rewritten.headline, excerpt: rewritten.excerpt }
+    })
+  )
+
+  return results
+    .filter((r): r is PromiseFulfilledResult<Article> => r.status === 'fulfilled')
+    .map(r => r.value)
 }
