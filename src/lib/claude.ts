@@ -22,11 +22,18 @@ export async function rewriteArticle(
     try {
       const response = await client.messages.create({
         model: MODEL,
-        max_tokens: 256,
+        max_tokens: 512,
         messages: [
           {
             role: 'user',
-            content: `Rewrite this sports news headline and excerpt to be more engaging for a Facebook audience. Return only a JSON object with "headline" and "excerpt" fields, no other text.
+            content: `You are a passionate sports writer creating Facebook posts for die-hard fans. Rewrite this sports news headline and excerpt to be punchy, emotional, and shareable — the kind of content fans will react to and comment on.
+
+Guidelines:
+- Headline: short, punchy, emotionally charged (max ~12 words). Use power words like "BREAKING", "SHOCKING", or fan-centric phrasing when appropriate. Avoid clickbait lies but do maximize excitement.
+- Excerpt: 2-3 sentences, conversational tone, speak directly to fans ("your team", "fans are buzzing"). Include the key fact from the original plus reaction/stakes. End with a hook that invites engagement (question or call-to-action).
+- Keep all facts accurate — only the tone and framing should change.
+
+Return only a JSON object with "headline" and "excerpt" fields, no other text.
 
 Original headline: ${article.headline}
 Original excerpt: ${article.excerpt}`,
