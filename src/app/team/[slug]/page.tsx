@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation'
 import { getTeam, getAllTeams } from '@/lib/teams'
-import { fetchTeamNews } from '@/lib/news'
+import { fetchAndRewriteTeamNews } from '@/lib/claude'
 import NavBar from '@/components/NavBar'
 import TeamHeader from '@/components/TeamHeader'
 import NewsFeed from '@/components/NewsFeed'
@@ -35,7 +35,7 @@ export default async function TeamPage({ params }: PageProps) {
     notFound()
   }
 
-  const articles = await fetchTeamNews(team)
+  const articles = await fetchAndRewriteTeamNews(team)
 
   return (
     <div className="min-h-screen flex flex-col bg-gray-50">
