@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { getTeam } from '@/lib/teams'
-import { fetchTeamNews } from '@/lib/news'
+import { fetchAndRewriteTeamNews } from '@/lib/claude'
 import { buildPostMessage, postToFacebook } from '@/lib/facebook'
 import pages from '@/data/facebook-pages.json'
 
@@ -31,7 +31,7 @@ export async function GET(request: NextRequest) {
       continue
     }
 
-    const articles = await fetchTeamNews(team)
+    const articles = await fetchAndRewriteTeamNews(team)
     if (articles.length === 0) {
       skipped++
       continue
