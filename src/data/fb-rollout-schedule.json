@@ -1,0 +1,545 @@
+{
+  "_note": "Facebook page rollout schedule. Pro teams ordered by market size (largest first). NCAA conferences due before Apr 5. NCAA schools start Apr 5.",
+  "alreadyConfigured": [
+    "nhl-toronto-maple-leafs",
+    "nfl-dallas-cowboys",
+    "nfl-new-england-patriots",
+    "nba-los-angeles-lakers",
+    "mlb-new-york-yankees",
+    "bragging-rights"
+  ],
+  "proTeams": {
+    "total": 120,
+    "schedule": [
+      {
+        "date": "2026-04-02",
+        "slugs": [
+          "mlb-new-york-mets",
+          "nfl-new-york-giants",
+          "nfl-new-york-jets"
+        ]
+      },
+      {
+        "date": "2026-04-03",
+        "slugs": [
+          "nba-new-york-knicks",
+          "nba-brooklyn-nets",
+          "nhl-new-york-rangers"
+        ]
+      },
+      {
+        "date": "2026-04-04",
+        "slugs": [
+          "nhl-new-york-islanders",
+          "nhl-new-jersey-devils",
+          "nba-los-angeles-clippers"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "slugs": [
+          "nfl-los-angeles-rams",
+          "nfl-los-angeles-chargers",
+          "mlb-los-angeles-dodgers"
+        ]
+      },
+      {
+        "date": "2026-04-06",
+        "slugs": [
+          "mlb-los-angeles-angels",
+          "nhl-los-angeles-kings",
+          "nhl-anaheim-ducks"
+        ]
+      },
+      {
+        "date": "2026-04-07",
+        "slugs": [
+          "nfl-chicago-bears",
+          "nba-chicago-bulls",
+          "nhl-chicago-blackhawks"
+        ]
+      },
+      {
+        "date": "2026-04-08",
+        "slugs": [
+          "mlb-chicago-cubs",
+          "mlb-chicago-white-sox",
+          "nba-dallas-mavericks"
+        ]
+      },
+      {
+        "date": "2026-04-09",
+        "slugs": [
+          "nhl-dallas-stars",
+          "mlb-texas-rangers",
+          "nba-golden-state-warriors"
+        ]
+      },
+      {
+        "date": "2026-04-10",
+        "slugs": [
+          "nfl-san-francisco-49ers",
+          "mlb-san-francisco-giants",
+          "mlb-oakland-athletics"
+        ]
+      },
+      {
+        "date": "2026-04-11",
+        "slugs": [
+          "nhl-san-jose-sharks",
+          "nfl-houston-texans",
+          "nba-houston-rockets",
+          "mlb-houston-astros"
+        ]
+      },
+      {
+        "date": "2026-04-12",
+        "slugs": [
+          "nfl-washington-commanders",
+          "nba-washington-wizards",
+          "nhl-washington-capitals",
+          "mlb-washington-nationals"
+        ]
+      },
+      {
+        "date": "2026-04-13",
+        "slugs": [
+          "nfl-philadelphia-eagles",
+          "nba-philadelphia-76ers",
+          "nhl-philadelphia-flyers",
+          "mlb-philadelphia-phillies"
+        ]
+      },
+      {
+        "date": "2026-04-14",
+        "slugs": [
+          "nba-boston-celtics",
+          "nhl-boston-bruins",
+          "mlb-boston-red-sox",
+          "nfl-atlanta-falcons"
+        ]
+      },
+      {
+        "date": "2026-04-15",
+        "slugs": [
+          "nba-atlanta-hawks",
+          "mlb-atlanta-braves",
+          "nfl-miami-dolphins",
+          "nba-miami-heat"
+        ]
+      },
+      {
+        "date": "2026-04-16",
+        "slugs": [
+          "nhl-florida-panthers",
+          "mlb-miami-marlins",
+          "nfl-arizona-cardinals",
+          "nba-phoenix-suns"
+        ]
+      },
+      {
+        "date": "2026-04-17",
+        "slugs": [
+          "nhl-arizona-coyotes",
+          "mlb-arizona-diamondbacks",
+          "nfl-seattle-seahawks",
+          "mlb-seattle-mariners"
+        ]
+      },
+      {
+        "date": "2026-04-18",
+        "slugs": [
+          "nhl-seattle-kraken",
+          "nfl-minnesota-vikings",
+          "nba-minnesota-timberwolves",
+          "nhl-minnesota-wild"
+        ]
+      },
+      {
+        "date": "2026-04-19",
+        "slugs": [
+          "mlb-minnesota-twins",
+          "nfl-denver-broncos",
+          "nba-denver-nuggets",
+          "nhl-colorado-avalanche"
+        ]
+      },
+      {
+        "date": "2026-04-20",
+        "slugs": [
+          "mlb-colorado-rockies",
+          "mlb-san-diego-padres",
+          "nfl-tampa-bay-buccaneers",
+          "nhl-tampa-bay-lightning"
+        ]
+      },
+      {
+        "date": "2026-04-21",
+        "slugs": [
+          "mlb-tampa-bay-rays",
+          "nfl-detroit-lions",
+          "nba-detroit-pistons",
+          "nhl-detroit-red-wings"
+        ]
+      },
+      {
+        "date": "2026-04-22",
+        "slugs": [
+          "mlb-detroit-tigers",
+          "nba-toronto-raptors",
+          "mlb-toronto-blue-jays",
+          "nba-portland-trail-blazers"
+        ]
+      },
+      {
+        "date": "2026-04-23",
+        "slugs": [
+          "nba-orlando-magic",
+          "nba-oklahoma-city-thunder",
+          "nba-sacramento-kings",
+          "nba-utah-jazz"
+        ]
+      },
+      {
+        "date": "2026-04-24",
+        "slugs": [
+          "nhl-utah-hockey-club",
+          "nfl-new-orleans-saints",
+          "nba-new-orleans-pelicans",
+          "nba-memphis-grizzlies"
+        ]
+      },
+      {
+        "date": "2026-04-25",
+        "slugs": [
+          "nfl-indianapolis-colts",
+          "nba-indiana-pacers",
+          "nfl-kansas-city-chiefs",
+          "mlb-kansas-city-royals"
+        ]
+      },
+      {
+        "date": "2026-04-26",
+        "slugs": [
+          "nfl-cleveland-browns",
+          "nba-cleveland-cavaliers",
+          "mlb-cleveland-guardians",
+          "nfl-baltimore-ravens"
+        ]
+      },
+      {
+        "date": "2026-04-27",
+        "slugs": [
+          "mlb-baltimore-orioles",
+          "nba-milwaukee-bucks",
+          "mlb-milwaukee-brewers",
+          "nfl-carolina-panthers"
+        ]
+      },
+      {
+        "date": "2026-04-28",
+        "slugs": [
+          "nba-charlotte-hornets",
+          "nhl-nashville-predators",
+          "nfl-tennessee-titans",
+          "nfl-las-vegas-raiders"
+        ]
+      },
+      {
+        "date": "2026-04-29",
+        "slugs": [
+          "nhl-vegas-golden-knights",
+          "nfl-green-bay-packers",
+          "nfl-jacksonville-jaguars",
+          "nfl-buffalo-bills"
+        ]
+      },
+      {
+        "date": "2026-04-30",
+        "slugs": [
+          "nhl-buffalo-sabres",
+          "nhl-columbus-blue-jackets",
+          "nfl-pittsburgh-steelers",
+          "nhl-pittsburgh-penguins"
+        ]
+      },
+      {
+        "date": "2026-05-01",
+        "slugs": [
+          "mlb-pittsburgh-pirates",
+          "nhl-st-louis-blues",
+          "mlb-st-louis-cardinals",
+          "nfl-cincinnati-bengals"
+        ]
+      },
+      {
+        "date": "2026-05-02",
+        "slugs": [
+          "mlb-cincinnati-reds",
+          "nba-san-antonio-spurs",
+          "nhl-edmonton-oilers"
+        ]
+      },
+      {
+        "date": "2026-05-03",
+        "slugs": [
+          "nhl-vancouver-canucks",
+          "nhl-calgary-flames",
+          "nhl-ottawa-senators"
+        ]
+      },
+      {
+        "date": "2026-05-04",
+        "slugs": [
+          "nhl-winnipeg-jets",
+          "nhl-montreal-canadiens",
+          "nhl-carolina-hurricanes"
+        ]
+      }
+    ]
+  },
+  "ncaaConferences": {
+    "total": 4,
+    "deadline": "2026-04-04",
+    "schedule": [
+      {
+        "date": "2026-04-02",
+        "slugs": [
+          "ncaa-big-ten",
+          "ncaa-sec"
+        ]
+      },
+      {
+        "date": "2026-04-03",
+        "slugs": [
+          "ncaa-big-12",
+          "ncaa-acc"
+        ]
+      }
+    ]
+  },
+  "ncaaSchools": {
+    "total": 68,
+    "startsOn": "2026-04-05",
+    "schedule": [
+      {
+        "date": "2026-04-05",
+        "slugs": [
+          "big-ten-ohio-state",
+          "big-ten-usc"
+        ]
+      },
+      {
+        "date": "2026-04-06",
+        "slugs": [
+          "big-ten-ucla",
+          "big-ten-michigan"
+        ]
+      },
+      {
+        "date": "2026-04-07",
+        "slugs": [
+          "big-ten-penn-state",
+          "big-ten-washington"
+        ]
+      },
+      {
+        "date": "2026-04-08",
+        "slugs": [
+          "big-ten-oregon",
+          "big-ten-michigan-state"
+        ]
+      },
+      {
+        "date": "2026-04-09",
+        "slugs": [
+          "big-ten-wisconsin",
+          "big-ten-maryland"
+        ]
+      },
+      {
+        "date": "2026-04-10",
+        "slugs": [
+          "big-ten-rutgers",
+          "big-ten-iowa"
+        ]
+      },
+      {
+        "date": "2026-04-11",
+        "slugs": [
+          "big-ten-nebraska",
+          "big-ten-minnesota"
+        ]
+      },
+      {
+        "date": "2026-04-12",
+        "slugs": [
+          "big-ten-northwestern",
+          "big-ten-illinois"
+        ]
+      },
+      {
+        "date": "2026-04-13",
+        "slugs": [
+          "big-ten-purdue",
+          "big-ten-indiana"
+        ]
+      },
+      {
+        "date": "2026-04-14",
+        "slugs": [
+          "sec-texas",
+          "sec-georgia"
+        ]
+      },
+      {
+        "date": "2026-04-15",
+        "slugs": [
+          "sec-alabama",
+          "sec-florida"
+        ]
+      },
+      {
+        "date": "2026-04-16",
+        "slugs": [
+          "sec-oklahoma",
+          "sec-tennessee"
+        ]
+      },
+      {
+        "date": "2026-04-17",
+        "slugs": [
+          "sec-lsu",
+          "sec-texas-am"
+        ]
+      },
+      {
+        "date": "2026-04-18",
+        "slugs": [
+          "sec-auburn",
+          "sec-south-carolina"
+        ]
+      },
+      {
+        "date": "2026-04-19",
+        "slugs": [
+          "sec-arkansas",
+          "sec-kentucky"
+        ]
+      },
+      {
+        "date": "2026-04-20",
+        "slugs": [
+          "sec-ole-miss",
+          "sec-mississippi-state"
+        ]
+      },
+      {
+        "date": "2026-04-21",
+        "slugs": [
+          "sec-missouri",
+          "sec-vanderbilt"
+        ]
+      },
+      {
+        "date": "2026-04-22",
+        "slugs": [
+          "acc-notre-dame",
+          "acc-florida-state"
+        ]
+      },
+      {
+        "date": "2026-04-23",
+        "slugs": [
+          "acc-north-carolina",
+          "acc-miami"
+        ]
+      },
+      {
+        "date": "2026-04-24",
+        "slugs": [
+          "acc-virginia-tech",
+          "acc-georgia-tech"
+        ]
+      },
+      {
+        "date": "2026-04-25",
+        "slugs": [
+          "acc-clemson",
+          "acc-duke"
+        ]
+      },
+      {
+        "date": "2026-04-26",
+        "slugs": [
+          "acc-pitt",
+          "acc-boston-college",
+          "acc-virginia"
+        ]
+      },
+      {
+        "date": "2026-04-27",
+        "slugs": [
+          "acc-stanford",
+          "acc-cal",
+          "acc-louisville"
+        ]
+      },
+      {
+        "date": "2026-04-28",
+        "slugs": [
+          "acc-nc-state",
+          "acc-smu",
+          "acc-syracuse"
+        ]
+      },
+      {
+        "date": "2026-04-29",
+        "slugs": [
+          "acc-wake-forest",
+          "big-12-texas-tech",
+          "big-12-tcu"
+        ]
+      },
+      {
+        "date": "2026-04-30",
+        "slugs": [
+          "big-12-baylor",
+          "big-12-kansas",
+          "big-12-iowa-state"
+        ]
+      },
+      {
+        "date": "2026-05-01",
+        "slugs": [
+          "big-12-kansas-state",
+          "big-12-colorado",
+          "big-12-utah"
+        ]
+      },
+      {
+        "date": "2026-05-02",
+        "slugs": [
+          "big-12-arizona-state",
+          "big-12-arizona",
+          "big-12-west-virginia"
+        ]
+      },
+      {
+        "date": "2026-05-03",
+        "slugs": [
+          "big-12-cincinnati",
+          "big-12-ucf",
+          "big-12-houston"
+        ]
+      },
+      {
+        "date": "2026-05-04",
+        "slugs": [
+          "big-12-byu",
+          "big-12-oklahoma-state"
+        ]
+      }
+    ]
+  }
+}

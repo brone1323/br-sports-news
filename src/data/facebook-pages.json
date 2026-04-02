@@ -628,5 +628,365 @@
     "slug": "bragging-rights",
     "pageId": "985065641355231",
     "pageAccessToken": "EAAnODCNPGpgBRD8Mb7pcozzXwKLlNZAWnBVkkfun6v8IavPv0rvW9NnRQ2v5Wdpgh6ddptl0l2ZA5SLSsx7ZBZAQHzX9JsPhEuGar7qAZC20a1YOm98KKGGZBONtMPKuZC4TLmlOoiAlKS1lH0H2wdSYGE2ZA0otPRoLqAB77CzJees79ZBSvgVKniUtqOYPQXyyUEYYZB"
+  },
+  {
+    "slug": "ncaa-big-ten",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "ncaa-sec",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "ncaa-big-12",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "ncaa-acc",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-ten-illinois",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-ten-indiana",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-ten-iowa",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-ten-maryland",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-ten-michigan",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-ten-michigan-state",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-ten-minnesota",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-ten-nebraska",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-ten-northwestern",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-ten-ohio-state",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-ten-oregon",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-ten-penn-state",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-ten-purdue",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-ten-rutgers",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-ten-ucla",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-ten-usc",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-ten-washington",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-ten-wisconsin",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "sec-alabama",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "sec-arkansas",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "sec-auburn",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "sec-florida",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "sec-georgia",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "sec-kentucky",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "sec-lsu",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "sec-mississippi-state",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "sec-missouri",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "sec-oklahoma",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "sec-ole-miss",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "sec-south-carolina",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "sec-tennessee",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "sec-texas",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "sec-texas-am",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "sec-vanderbilt",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-12-arizona",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-12-arizona-state",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-12-baylor",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-12-byu",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-12-cincinnati",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-12-colorado",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-12-houston",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-12-iowa-state",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-12-kansas",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-12-kansas-state",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-12-oklahoma-state",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-12-tcu",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-12-texas-tech",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-12-ucf",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-12-utah",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "big-12-west-virginia",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "acc-boston-college",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "acc-cal",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "acc-clemson",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "acc-duke",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "acc-florida-state",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "acc-georgia-tech",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "acc-louisville",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "acc-miami",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "acc-nc-state",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "acc-north-carolina",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "acc-notre-dame",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "acc-pitt",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "acc-smu",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "acc-stanford",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "acc-syracuse",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "acc-virginia",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "acc-virginia-tech",
+    "pageId": "",
+    "pageAccessToken": ""
+  },
+  {
+    "slug": "acc-wake-forest",
+    "pageId": "",
+    "pageAccessToken": ""
   }
 ]
