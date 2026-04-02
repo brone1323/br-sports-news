@@ -1,7 +1,9 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { getTeam } from '@/lib/teams'
+import { getTeam, getTeamsByLeague } from '@/lib/teams'
 import { fetchAndRewriteTeamNews } from '@/lib/claude'
-import { buildPostMessage, postToFacebook } from '@/lib/facebook'
+import { buildPostMessage, buildConferencePostMessage, postToFacebook } from '@/lib/facebook'
+import { getConference } from '@/lib/conferences'
+import { fetchTeamNews, Article } from '@/lib/news'
 import pages from '@/data/facebook-pages.json'
 
 export async function GET(request: NextRequest) {
@@ -22,6 +24,47 @@ export async function GET(request: NextRequest) {
   for (const entry of pages) {
     if (!entry.pageId || !entry.pageAccessToken) {
       skipped++
+      continue
+    }
+
+    // Conference-level pages aggregate top news from across the conference
+    if (entry.slug.startsWith('conference-')) {
+      const conference = getConference(entry.slug)
+      if (!conference) {
+        errors.push(`Unknown conference slug: ${entry.slug}`)
+        continue
+      }
+
+      const conferenceTeams = getTeamsByLeague(conference.leagueName)
+      let conferenceArticles: Article[] = []
+      for (const t of conferenceTeams.slice(0, 5)) {
+        const raw = await fetchTeamNews(t)
+        const real = raw.filter(a => a.url !== '#')
+        if (real.length > 0) {
+          conferenceArticles = real
+          break
+        }
+      }
+
+      if (conferenceArticles.length === 0) {
+        skipped++
+        continue
+      }
+
+      const article = conferenceArticles[0]
+      const message = buildConferencePostMessage(conference, conferenceArticles)
+      const imageUrl =
+        `${baseUrl}/api/facebook/article-image` +
+        `?team=${encodeURIComponent(conference.shortName)}` +
+        `&headline=${encodeURIComponent(article.headline)}` +
+        `&source=${encodeURIComponent(article.source)}`
+
+      const result = await postToFacebook(entry.pageId, entry.pageAccessToken, message, imageUrl)
+      if (result.success) {
+        posted++
+      } else {
+        errors.push(`${entry.slug}: ${JSON.stringify(result.error)}`)
+      }
       continue
     }
 

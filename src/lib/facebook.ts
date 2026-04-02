@@ -1,5 +1,21 @@
 import { Team } from './teams'
+import { Conference } from './conferences'
 import { Article } from './news'
+
+export function buildConferencePostMessage(conference: Conference, articles: Article[]): string {
+  const top = articles[0]
+  const siteUrl = 'https://br-sports-news.vercel.app'
+
+  return [
+    `${conference.shortName} Headlines`,
+    '',
+    top.headline,
+    '',
+    top.excerpt,
+    '',
+    `More ${conference.shortName} news: ${siteUrl}`,
+  ].join('\n')
+}
 
 export function buildPostMessage(team: Team, articles: Article[]): string {
   const top = articles[0]
