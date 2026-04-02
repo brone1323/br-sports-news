@@ -1,6 +1,8 @@
 import Link from 'next/link'
 import { Team } from '@/lib/teams'
 import PollWidget from '@/components/PollWidget'
+import WeatherWidget from '@/components/WeatherWidget'
+import TwitterWidget from '@/components/TwitterWidget'
 
 interface SidebarProps {
   team: Team
@@ -76,6 +78,18 @@ export default function Sidebar({ team }: SidebarProps) {
           <p className="text-xs text-gray-400 pt-1">Live standings coming soon</p>
         </div>
       </div>
+
+      {/* Weather Widget */}
+      <WeatherWidget city={team.city} primaryColor={team.primaryColor} />
+
+      {/* X / Twitter Feed */}
+      {team.xHandle && (
+        <TwitterWidget
+          xHandle={team.xHandle}
+          primaryColor={team.primaryColor}
+          teamName={team.shortName}
+        />
+      )}
 
       {/* Follow on Facebook */}
       {fbUrl && (

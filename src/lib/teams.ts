@@ -12,6 +12,7 @@ export interface Team {
   accentColor: string
   logoUrl: string
   facebookPageId: string
+  xHandle?: string
   espnTeamId: string
   searchTerms: string[]
 }

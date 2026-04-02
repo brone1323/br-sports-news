@@ -2373,5 +2373,1365 @@
       "Nationals",
       "WAS"
     ]
+  },
+  {
+    "slug": "big-ten-illinois",
+    "name": "Illinois Fighting Illini",
+    "shortName": "Illinois",
+    "city": "Champaign",
+    "league": "Big Ten",
+    "division": "Big Ten",
+    "primaryColor": "#13294B",
+    "secondaryColor": "#E84A27",
+    "accentColor": "#E84A27",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
+    "facebookPageId": "",
+    "xHandle": "FightingIllini",
+    "espnTeamId": "356",
+    "searchTerms": [
+      "Illinois Fighting Illini",
+      "Illini",
+      "Illinois football basketball"
+    ]
+  },
+  {
+    "slug": "big-ten-indiana",
+    "name": "Indiana Hoosiers",
+    "shortName": "Indiana",
+    "city": "Bloomington",
+    "league": "Big Ten",
+    "division": "Big Ten",
+    "primaryColor": "#990000",
+    "secondaryColor": "#FFFFFF",
+    "accentColor": "#990000",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+    "facebookPageId": "",
+    "xHandle": "IndianaAthletics",
+    "espnTeamId": "84",
+    "searchTerms": [
+      "Indiana Hoosiers",
+      "Hoosiers",
+      "Indiana football basketball"
+    ]
+  },
+  {
+    "slug": "big-ten-iowa",
+    "name": "Iowa Hawkeyes",
+    "shortName": "Iowa",
+    "city": "Iowa City",
+    "league": "Big Ten",
+    "division": "Big Ten",
+    "primaryColor": "#000000",
+    "secondaryColor": "#FFCD00",
+    "accentColor": "#FFCD00",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
+    "facebookPageId": "",
+    "xHandle": "HawkeyeAthletics",
+    "espnTeamId": "2294",
+    "searchTerms": [
+      "Iowa Hawkeyes",
+      "Hawkeyes",
+      "Iowa football basketball"
+    ]
+  },
+  {
+    "slug": "big-ten-maryland",
+    "name": "Maryland Terrapins",
+    "shortName": "Maryland",
+    "city": "College Park",
+    "league": "Big Ten",
+    "division": "Big Ten",
+    "primaryColor": "#E03A3E",
+    "secondaryColor": "#FFD520",
+    "accentColor": "#FFD520",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+    "facebookPageId": "",
+    "xHandle": "TerpsAthletics",
+    "espnTeamId": "120",
+    "searchTerms": [
+      "Maryland Terrapins",
+      "Terps",
+      "Maryland football basketball"
+    ]
+  },
+  {
+    "slug": "big-ten-michigan",
+    "name": "Michigan Wolverines",
+    "shortName": "Michigan",
+    "city": "Ann Arbor",
+    "league": "Big Ten",
+    "division": "Big Ten",
+    "primaryColor": "#00274C",
+    "secondaryColor": "#FFCB05",
+    "accentColor": "#FFCB05",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+    "facebookPageId": "",
+    "xHandle": "umichsports",
+    "espnTeamId": "130",
+    "searchTerms": [
+      "Michigan Wolverines",
+      "Wolverines",
+      "Michigan football basketball"
+    ]
+  },
+  {
+    "slug": "big-ten-michigan-state",
+    "name": "Michigan State Spartans",
+    "shortName": "Michigan State",
+    "city": "East Lansing",
+    "league": "Big Ten",
+    "division": "Big Ten",
+    "primaryColor": "#18453B",
+    "secondaryColor": "#FFFFFF",
+    "accentColor": "#18453B",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+    "facebookPageId": "",
+    "xHandle": "MSU_Athletics",
+    "espnTeamId": "127",
+    "searchTerms": [
+      "Michigan State Spartans",
+      "Spartans",
+      "Michigan State football basketball"
+    ]
+  },
+  {
+    "slug": "big-ten-minnesota",
+    "name": "Minnesota Golden Gophers",
+    "shortName": "Minnesota",
+    "city": "Minneapolis",
+    "league": "Big Ten",
+    "division": "Big Ten",
+    "primaryColor": "#7A0019",
+    "secondaryColor": "#FFB71B",
+    "accentColor": "#FFB71B",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
+    "facebookPageId": "",
+    "xHandle": "GopherSports",
+    "espnTeamId": "135",
+    "searchTerms": [
+      "Minnesota Golden Gophers",
+      "Gophers",
+      "Minnesota football basketball"
+    ]
+  },
+  {
+    "slug": "big-ten-nebraska",
+    "name": "Nebraska Cornhuskers",
+    "shortName": "Nebraska",
+    "city": "Lincoln",
+    "league": "Big Ten",
+    "division": "Big Ten",
+    "primaryColor": "#E41C38",
+    "secondaryColor": "#F5F1E7",
+    "accentColor": "#E41C38",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
+    "facebookPageId": "",
+    "xHandle": "Huskers",
+    "espnTeamId": "158",
+    "searchTerms": [
+      "Nebraska Cornhuskers",
+      "Huskers",
+      "Nebraska football basketball"
+    ]
+  },
+  {
+    "slug": "big-ten-northwestern",
+    "name": "Northwestern Wildcats",
+    "shortName": "Northwestern",
+    "city": "Evanston",
+    "league": "Big Ten",
+    "division": "Big Ten",
+    "primaryColor": "#4E2A84",
+    "secondaryColor": "#FFFFFF",
+    "accentColor": "#4E2A84",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
+    "facebookPageId": "",
+    "xHandle": "NUSports",
+    "espnTeamId": "77",
+    "searchTerms": [
+      "Northwestern Wildcats",
+      "Northwestern",
+      "Northwestern football basketball"
+    ]
+  },
+  {
+    "slug": "big-ten-ohio-state",
+    "name": "Ohio State Buckeyes",
+    "shortName": "Ohio State",
+    "city": "Columbus",
+    "league": "Big Ten",
+    "division": "Big Ten",
+    "primaryColor": "#BB0000",
+    "secondaryColor": "#666666",
+    "accentColor": "#BB0000",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+    "facebookPageId": "",
+    "xHandle": "OhioStateBucks",
+    "espnTeamId": "194",
+    "searchTerms": [
+      "Ohio State Buckeyes",
+      "Buckeyes",
+      "Ohio State football basketball"
+    ]
+  },
+  {
+    "slug": "big-ten-oregon",
+    "name": "Oregon Ducks",
+    "shortName": "Oregon",
+    "city": "Eugene",
+    "league": "Big Ten",
+    "division": "Big Ten",
+    "primaryColor": "#154733",
+    "secondaryColor": "#FEE123",
+    "accentColor": "#FEE123",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
+    "facebookPageId": "",
+    "xHandle": "OregonAthletics",
+    "espnTeamId": "2483",
+    "searchTerms": [
+      "Oregon Ducks",
+      "Ducks",
+      "Oregon football basketball"
+    ]
+  },
+  {
+    "slug": "big-ten-penn-state",
+    "name": "Penn State Nittany Lions",
+    "shortName": "Penn State",
+    "city": "State College",
+    "league": "Big Ten",
+    "division": "Big Ten",
+    "primaryColor": "#041E42",
+    "secondaryColor": "#FFFFFF",
+    "accentColor": "#041E42",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+    "facebookPageId": "",
+    "xHandle": "GoPSUsports",
+    "espnTeamId": "213",
+    "searchTerms": [
+      "Penn State Nittany Lions",
+      "Nittany Lions",
+      "Penn State football basketball"
+    ]
+  },
+  {
+    "slug": "big-ten-purdue",
+    "name": "Purdue Boilermakers",
+    "shortName": "Purdue",
+    "city": "West Lafayette",
+    "league": "Big Ten",
+    "division": "Big Ten",
+    "primaryColor": "#000000",
+    "secondaryColor": "#CEB888",
+    "accentColor": "#CEB888",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+    "facebookPageId": "",
+    "xHandle": "PurdueAthletics",
+    "espnTeamId": "2509",
+    "searchTerms": [
+      "Purdue Boilermakers",
+      "Boilermakers",
+      "Purdue football basketball"
+    ]
+  },
+  {
+    "slug": "big-ten-rutgers",
+    "name": "Rutgers Scarlet Knights",
+    "shortName": "Rutgers",
+    "city": "Piscataway",
+    "league": "Big Ten",
+    "division": "Big Ten",
+    "primaryColor": "#CC0033",
+    "secondaryColor": "#FFFFFF",
+    "accentColor": "#CC0033",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
+    "facebookPageId": "",
+    "xHandle": "RUAthletics",
+    "espnTeamId": "164",
+    "searchTerms": [
+      "Rutgers Scarlet Knights",
+      "Scarlet Knights",
+      "Rutgers football basketball"
+    ]
+  },
+  {
+    "slug": "big-ten-ucla",
+    "name": "UCLA Bruins",
+    "shortName": "UCLA",
+    "city": "Los Angeles",
+    "league": "Big Ten",
+    "division": "Big Ten",
+    "primaryColor": "#2D68C4",
+    "secondaryColor": "#F2A900",
+    "accentColor": "#F2A900",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+    "facebookPageId": "",
+    "xHandle": "UCLAAthletics",
+    "espnTeamId": "26",
+    "searchTerms": [
+      "UCLA Bruins",
+      "Bruins",
+      "UCLA football basketball"
+    ]
+  },
+  {
+    "slug": "big-ten-usc",
+    "name": "USC Trojans",
+    "shortName": "USC",
+    "city": "Los Angeles",
+    "league": "Big Ten",
+    "division": "Big Ten",
+    "primaryColor": "#990000",
+    "secondaryColor": "#FFC72C",
+    "accentColor": "#FFC72C",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+    "facebookPageId": "",
+    "xHandle": "USC_Athletics",
+    "espnTeamId": "30",
+    "searchTerms": [
+      "USC Trojans",
+      "Trojans",
+      "USC football basketball"
+    ]
+  },
+  {
+    "slug": "big-ten-washington",
+    "name": "Washington Huskies",
+    "shortName": "Washington",
+    "city": "Seattle",
+    "league": "Big Ten",
+    "division": "Big Ten",
+    "primaryColor": "#4B2E83",
+    "secondaryColor": "#B7A57A",
+    "accentColor": "#B7A57A",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+    "facebookPageId": "",
+    "xHandle": "UWAthletics",
+    "espnTeamId": "264",
+    "searchTerms": [
+      "Washington Huskies",
+      "Huskies",
+      "UW Huskies football basketball"
+    ]
+  },
+  {
+    "slug": "big-ten-wisconsin",
+    "name": "Wisconsin Badgers",
+    "shortName": "Wisconsin",
+    "city": "Madison",
+    "league": "Big Ten",
+    "division": "Big Ten",
+    "primaryColor": "#C5050C",
+    "secondaryColor": "#FFFFFF",
+    "accentColor": "#C5050C",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+    "facebookPageId": "",
+    "xHandle": "UWBadgers",
+    "espnTeamId": "275",
+    "searchTerms": [
+      "Wisconsin Badgers",
+      "Badgers",
+      "Wisconsin football basketball"
+    ]
+  },
+  {
+    "slug": "sec-alabama",
+    "name": "Alabama Crimson Tide",
+    "shortName": "Alabama",
+    "city": "Tuscaloosa",
+    "league": "SEC",
+    "division": "SEC",
+    "primaryColor": "#9E1B32",
+    "secondaryColor": "#FFFFFF",
+    "accentColor": "#9E1B32",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+    "facebookPageId": "",
+    "xHandle": "AlabamaFTBL",
+    "espnTeamId": "333",
+    "searchTerms": [
+      "Alabama Crimson Tide",
+      "Crimson Tide",
+      "Alabama football basketball"
+    ]
+  },
+  {
+    "slug": "sec-arkansas",
+    "name": "Arkansas Razorbacks",
+    "shortName": "Arkansas",
+    "city": "Fayetteville",
+    "league": "SEC",
+    "division": "SEC",
+    "primaryColor": "#9D2235",
+    "secondaryColor": "#FFFFFF",
+    "accentColor": "#9D2235",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
+    "facebookPageId": "",
+    "xHandle": "RazorbackFB",
+    "espnTeamId": "8",
+    "searchTerms": [
+      "Arkansas Razorbacks",
+      "Razorbacks",
+      "Arkansas football basketball"
+    ]
+  },
+  {
+    "slug": "sec-auburn",
+    "name": "Auburn Tigers",
+    "shortName": "Auburn",
+    "city": "Auburn",
+    "league": "SEC",
+    "division": "SEC",
+    "primaryColor": "#0C2340",
+    "secondaryColor": "#E87722",
+    "accentColor": "#E87722",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+    "facebookPageId": "",
+    "xHandle": "AuburnAthletics",
+    "espnTeamId": "2",
+    "searchTerms": [
+      "Auburn Tigers",
+      "Tigers",
+      "Auburn football basketball"
+    ]
+  },
+  {
+    "slug": "sec-florida",
+    "name": "Florida Gators",
+    "shortName": "Florida",
+    "city": "Gainesville",
+    "league": "SEC",
+    "division": "SEC",
+    "primaryColor": "#0021A5",
+    "secondaryColor": "#FA4616",
+    "accentColor": "#FA4616",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+    "facebookPageId": "",
+    "xHandle": "GatorsFB",
+    "espnTeamId": "57",
+    "searchTerms": [
+      "Florida Gators",
+      "Gators",
+      "Florida football basketball"
+    ]
+  },
+  {
+    "slug": "sec-georgia",
+    "name": "Georgia Bulldogs",
+    "shortName": "Georgia",
+    "city": "Athens",
+    "league": "SEC",
+    "division": "SEC",
+    "primaryColor": "#BA0C2F",
+    "secondaryColor": "#000000",
+    "accentColor": "#BA0C2F",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
+    "facebookPageId": "",
+    "xHandle": "GeorgiaFootball",
+    "espnTeamId": "61",
+    "searchTerms": [
+      "Georgia Bulldogs",
+      "Bulldogs",
+      "Georgia football basketball"
+    ]
+  },
+  {
+    "slug": "sec-kentucky",
+    "name": "Kentucky Wildcats",
+    "shortName": "Kentucky",
+    "city": "Lexington",
+    "league": "SEC",
+    "division": "SEC",
+    "primaryColor": "#0033A0",
+    "secondaryColor": "#FFFFFF",
+    "accentColor": "#0033A0",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+    "facebookPageId": "",
+    "xHandle": "KentuckyAthletics",
+    "espnTeamId": "96",
+    "searchTerms": [
+      "Kentucky Wildcats",
+      "Wildcats",
+      "Kentucky football basketball"
+    ]
+  },
+  {
+    "slug": "sec-lsu",
+    "name": "LSU Tigers",
+    "shortName": "LSU",
+    "city": "Baton Rouge",
+    "league": "SEC",
+    "division": "SEC",
+    "primaryColor": "#461D7C",
+    "secondaryColor": "#FDD023",
+    "accentColor": "#FDD023",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+    "facebookPageId": "",
+    "xHandle": "LSUAthletics",
+    "espnTeamId": "99",
+    "searchTerms": [
+      "LSU Tigers",
+      "Tigers",
+      "LSU football basketball"
+    ]
+  },
+  {
+    "slug": "sec-mississippi-state",
+    "name": "Mississippi State Bulldogs",
+    "shortName": "Mississippi State",
+    "city": "Starkville",
+    "league": "SEC",
+    "division": "SEC",
+    "primaryColor": "#660000",
+    "secondaryColor": "#FFFFFF",
+    "accentColor": "#660000",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/344.png",
+    "facebookPageId": "",
+    "xHandle": "HailStateFB",
+    "espnTeamId": "344",
+    "searchTerms": [
+      "Mississippi State Bulldogs",
+      "Bulldogs",
+      "Mississippi State football basketball"
+    ]
+  },
+  {
+    "slug": "sec-missouri",
+    "name": "Missouri Tigers",
+    "shortName": "Missouri",
+    "city": "Columbia",
+    "league": "SEC",
+    "division": "SEC",
+    "primaryColor": "#000000",
+    "secondaryColor": "#F1B82D",
+    "accentColor": "#F1B82D",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+    "facebookPageId": "",
+    "xHandle": "MizzouAthletics",
+    "espnTeamId": "142",
+    "searchTerms": [
+      "Missouri Tigers",
+      "Mizzou",
+      "Missouri football basketball"
+    ]
+  },
+  {
+    "slug": "sec-oklahoma",
+    "name": "Oklahoma Sooners",
+    "shortName": "Oklahoma",
+    "city": "Norman",
+    "league": "SEC",
+    "division": "SEC",
+    "primaryColor": "#841617",
+    "secondaryColor": "#FEF4D0",
+    "accentColor": "#841617",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
+    "facebookPageId": "",
+    "xHandle": "OU_Athletics",
+    "espnTeamId": "201",
+    "searchTerms": [
+      "Oklahoma Sooners",
+      "Sooners",
+      "Oklahoma football basketball"
+    ]
+  },
+  {
+    "slug": "sec-ole-miss",
+    "name": "Ole Miss Rebels",
+    "shortName": "Ole Miss",
+    "city": "Oxford",
+    "league": "SEC",
+    "division": "SEC",
+    "primaryColor": "#CE1126",
+    "secondaryColor": "#14213D",
+    "accentColor": "#CE1126",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
+    "facebookPageId": "",
+    "xHandle": "OleMissFB",
+    "espnTeamId": "145",
+    "searchTerms": [
+      "Ole Miss Rebels",
+      "Rebels",
+      "Ole Miss football basketball"
+    ]
+  },
+  {
+    "slug": "sec-south-carolina",
+    "name": "South Carolina Gamecocks",
+    "shortName": "South Carolina",
+    "city": "Columbia",
+    "league": "SEC",
+    "division": "SEC",
+    "primaryColor": "#73000A",
+    "secondaryColor": "#000000",
+    "accentColor": "#73000A",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
+    "facebookPageId": "",
+    "xHandle": "GamecockFB",
+    "espnTeamId": "2579",
+    "searchTerms": [
+      "South Carolina Gamecocks",
+      "Gamecocks",
+      "South Carolina football basketball"
+    ]
+  },
+  {
+    "slug": "sec-tennessee",
+    "name": "Tennessee Volunteers",
+    "shortName": "Tennessee",
+    "city": "Knoxville",
+    "league": "SEC",
+    "division": "SEC",
+    "primaryColor": "#FF8200",
+    "secondaryColor": "#FFFFFF",
+    "accentColor": "#FF8200",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
+    "facebookPageId": "",
+    "xHandle": "Vol_Football",
+    "espnTeamId": "2633",
+    "searchTerms": [
+      "Tennessee Volunteers",
+      "Vols",
+      "Tennessee football basketball"
+    ]
+  },
+  {
+    "slug": "sec-texas",
+    "name": "Texas Longhorns",
+    "shortName": "Texas",
+    "city": "Austin",
+    "league": "SEC",
+    "division": "SEC",
+    "primaryColor": "#BF5700",
+    "secondaryColor": "#FFFFFF",
+    "accentColor": "#BF5700",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "facebookPageId": "",
+    "xHandle": "TexasAthletics",
+    "espnTeamId": "251",
+    "searchTerms": [
+      "Texas Longhorns",
+      "Longhorns",
+      "Texas football basketball"
+    ]
+  },
+  {
+    "slug": "sec-texas-am",
+    "name": "Texas A&M Aggies",
+    "shortName": "Texas A&M",
+    "city": "College Station",
+    "league": "SEC",
+    "division": "SEC",
+    "primaryColor": "#500000",
+    "secondaryColor": "#FFFFFF",
+    "accentColor": "#500000",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
+    "facebookPageId": "",
+    "xHandle": "AggieAthletics",
+    "espnTeamId": "245",
+    "searchTerms": [
+      "Texas A&M Aggies",
+      "Aggies",
+      "Texas AM football basketball"
+    ]
+  },
+  {
+    "slug": "sec-vanderbilt",
+    "name": "Vanderbilt Commodores",
+    "shortName": "Vanderbilt",
+    "city": "Nashville",
+    "league": "SEC",
+    "division": "SEC",
+    "primaryColor": "#000000",
+    "secondaryColor": "#866D4B",
+    "accentColor": "#866D4B",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+    "facebookPageId": "",
+    "xHandle": "VandyAthletics",
+    "espnTeamId": "238",
+    "searchTerms": [
+      "Vanderbilt Commodores",
+      "Commodores",
+      "Vanderbilt football basketball"
+    ]
+  },
+  {
+    "slug": "big-12-arizona",
+    "name": "Arizona Wildcats",
+    "shortName": "Arizona",
+    "city": "Tucson",
+    "league": "Big 12",
+    "division": "Big 12",
+    "primaryColor": "#CC0033",
+    "secondaryColor": "#002147",
+    "accentColor": "#CC0033",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+    "facebookPageId": "",
+    "xHandle": "ArizonaAthletics",
+    "espnTeamId": "12",
+    "searchTerms": [
+      "Arizona Wildcats",
+      "Wildcats",
+      "Arizona football basketball"
+    ]
+  },
+  {
+    "slug": "big-12-arizona-state",
+    "name": "Arizona State Sun Devils",
+    "shortName": "Arizona State",
+    "city": "Tempe",
+    "league": "Big 12",
+    "division": "Big 12",
+    "primaryColor": "#8C1D40",
+    "secondaryColor": "#FFC627",
+    "accentColor": "#FFC627",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+    "facebookPageId": "",
+    "xHandle": "TheSunDevils",
+    "espnTeamId": "9",
+    "searchTerms": [
+      "Arizona State Sun Devils",
+      "Sun Devils",
+      "ASU football basketball"
+    ]
+  },
+  {
+    "slug": "big-12-baylor",
+    "name": "Baylor Bears",
+    "shortName": "Baylor",
+    "city": "Waco",
+    "league": "Big 12",
+    "division": "Big 12",
+    "primaryColor": "#154734",
+    "secondaryColor": "#FFB81C",
+    "accentColor": "#FFB81C",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+    "facebookPageId": "",
+    "xHandle": "BaylorAthletics",
+    "espnTeamId": "239",
+    "searchTerms": [
+      "Baylor Bears",
+      "Bears",
+      "Baylor football basketball"
+    ]
+  },
+  {
+    "slug": "big-12-byu",
+    "name": "BYU Cougars",
+    "shortName": "BYU",
+    "city": "Provo",
+    "league": "Big 12",
+    "division": "Big 12",
+    "primaryColor": "#002E5D",
+    "secondaryColor": "#FFFFFF",
+    "accentColor": "#002E5D",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
+    "facebookPageId": "",
+    "xHandle": "BYUAthletics",
+    "espnTeamId": "252",
+    "searchTerms": [
+      "BYU Cougars",
+      "Cougars",
+      "BYU football basketball"
+    ]
+  },
+  {
+    "slug": "big-12-cincinnati",
+    "name": "Cincinnati Bearcats",
+    "shortName": "Cincinnati",
+    "city": "Cincinnati",
+    "league": "Big 12",
+    "division": "Big 12",
+    "primaryColor": "#E00122",
+    "secondaryColor": "#000000",
+    "accentColor": "#E00122",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/2132.png",
+    "facebookPageId": "",
+    "xHandle": "GoBearcatsFB",
+    "espnTeamId": "2132",
+    "searchTerms": [
+      "Cincinnati Bearcats",
+      "Bearcats",
+      "Cincinnati football basketball"
+    ]
+  },
+  {
+    "slug": "big-12-colorado",
+    "name": "Colorado Buffaloes",
+    "shortName": "Colorado",
+    "city": "Boulder",
+    "league": "Big 12",
+    "division": "Big 12",
+    "primaryColor": "#000000",
+    "secondaryColor": "#CFB87C",
+    "accentColor": "#CFB87C",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+    "facebookPageId": "",
+    "xHandle": "CUBuffsAthletics",
+    "espnTeamId": "38",
+    "searchTerms": [
+      "Colorado Buffaloes",
+      "Buffs",
+      "Colorado football basketball"
+    ]
+  },
+  {
+    "slug": "big-12-houston",
+    "name": "Houston Cougars",
+    "shortName": "Houston",
+    "city": "Houston",
+    "league": "Big 12",
+    "division": "Big 12",
+    "primaryColor": "#C8102E",
+    "secondaryColor": "#FFFFFF",
+    "accentColor": "#C8102E",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
+    "facebookPageId": "",
+    "xHandle": "UHCougarFB",
+    "espnTeamId": "248",
+    "searchTerms": [
+      "Houston Cougars",
+      "Cougars",
+      "Houston football basketball"
+    ]
+  },
+  {
+    "slug": "big-12-iowa-state",
+    "name": "Iowa State Cyclones",
+    "shortName": "Iowa State",
+    "city": "Ames",
+    "league": "Big 12",
+    "division": "Big 12",
+    "primaryColor": "#C8102E",
+    "secondaryColor": "#F1BE48",
+    "accentColor": "#F1BE48",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
+    "facebookPageId": "",
+    "xHandle": "CycloneATH",
+    "espnTeamId": "66",
+    "searchTerms": [
+      "Iowa State Cyclones",
+      "Cyclones",
+      "Iowa State football basketball"
+    ]
+  },
+  {
+    "slug": "big-12-kansas",
+    "name": "Kansas Jayhawks",
+    "shortName": "Kansas",
+    "city": "Lawrence",
+    "league": "Big 12",
+    "division": "Big 12",
+    "primaryColor": "#0051A5",
+    "secondaryColor": "#E8000D",
+    "accentColor": "#E8000D",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+    "facebookPageId": "",
+    "xHandle": "KUAthletics",
+    "espnTeamId": "2305",
+    "searchTerms": [
+      "Kansas Jayhawks",
+      "Jayhawks",
+      "Kansas football basketball"
+    ]
+  },
+  {
+    "slug": "big-12-kansas-state",
+    "name": "Kansas State Wildcats",
+    "shortName": "Kansas State",
+    "city": "Manhattan",
+    "league": "Big 12",
+    "division": "Big 12",
+    "primaryColor": "#512888",
+    "secondaryColor": "#D5D5D5",
+    "accentColor": "#512888",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
+    "facebookPageId": "",
+    "xHandle": "KStateAthletics",
+    "espnTeamId": "2306",
+    "searchTerms": [
+      "Kansas State Wildcats",
+      "Wildcats",
+      "Kansas State football basketball"
+    ]
+  },
+  {
+    "slug": "big-12-oklahoma-state",
+    "name": "Oklahoma State Cowboys",
+    "shortName": "Oklahoma State",
+    "city": "Stillwater",
+    "league": "Big 12",
+    "division": "Big 12",
+    "primaryColor": "#FF6600",
+    "secondaryColor": "#000000",
+    "accentColor": "#FF6600",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
+    "facebookPageId": "",
+    "xHandle": "OSUAthletics",
+    "espnTeamId": "197",
+    "searchTerms": [
+      "Oklahoma State Cowboys",
+      "Cowboys",
+      "Oklahoma State football basketball"
+    ]
+  },
+  {
+    "slug": "big-12-tcu",
+    "name": "TCU Horned Frogs",
+    "shortName": "TCU",
+    "city": "Fort Worth",
+    "league": "Big 12",
+    "division": "Big 12",
+    "primaryColor": "#4D1979",
+    "secondaryColor": "#FFFFFF",
+    "accentColor": "#4D1979",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
+    "facebookPageId": "",
+    "xHandle": "TCUAthletics",
+    "espnTeamId": "2628",
+    "searchTerms": [
+      "TCU Horned Frogs",
+      "Horned Frogs",
+      "TCU football basketball"
+    ]
+  },
+  {
+    "slug": "big-12-texas-tech",
+    "name": "Texas Tech Red Raiders",
+    "shortName": "Texas Tech",
+    "city": "Lubbock",
+    "league": "Big 12",
+    "division": "Big 12",
+    "primaryColor": "#CC0000",
+    "secondaryColor": "#000000",
+    "accentColor": "#CC0000",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+    "facebookPageId": "",
+    "xHandle": "TexasTechFB",
+    "espnTeamId": "2641",
+    "searchTerms": [
+      "Texas Tech Red Raiders",
+      "Red Raiders",
+      "Texas Tech football basketball"
+    ]
+  },
+  {
+    "slug": "big-12-ucf",
+    "name": "UCF Knights",
+    "shortName": "UCF",
+    "city": "Orlando",
+    "league": "Big 12",
+    "division": "Big 12",
+    "primaryColor": "#000000",
+    "secondaryColor": "#FFC904",
+    "accentColor": "#FFC904",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
+    "facebookPageId": "",
+    "xHandle": "UCF_Athletics",
+    "espnTeamId": "2116",
+    "searchTerms": [
+      "UCF Knights",
+      "Knights",
+      "UCF football basketball"
+    ]
+  },
+  {
+    "slug": "big-12-utah",
+    "name": "Utah Utes",
+    "shortName": "Utah",
+    "city": "Salt Lake City",
+    "league": "Big 12",
+    "division": "Big 12",
+    "primaryColor": "#CC0000",
+    "secondaryColor": "#000000",
+    "accentColor": "#CC0000",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
+    "facebookPageId": "",
+    "xHandle": "Utah_Athletics",
+    "espnTeamId": "254",
+    "searchTerms": [
+      "Utah Utes",
+      "Utes",
+      "Utah football basketball"
+    ]
+  },
+  {
+    "slug": "big-12-west-virginia",
+    "name": "West Virginia Mountaineers",
+    "shortName": "West Virginia",
+    "city": "Morgantown",
+    "league": "Big 12",
+    "division": "Big 12",
+    "primaryColor": "#002855",
+    "secondaryColor": "#EAAA00",
+    "accentColor": "#EAAA00",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
+    "facebookPageId": "",
+    "xHandle": "WVUAthletics",
+    "espnTeamId": "277",
+    "searchTerms": [
+      "West Virginia Mountaineers",
+      "Mountaineers",
+      "WVU football basketball"
+    ]
+  },
+  {
+    "slug": "acc-boston-college",
+    "name": "Boston College Eagles",
+    "shortName": "Boston College",
+    "city": "Chestnut Hill",
+    "league": "ACC",
+    "division": "ACC",
+    "primaryColor": "#98002E",
+    "secondaryColor": "#C5A900",
+    "accentColor": "#C5A900",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/103.png",
+    "facebookPageId": "",
+    "xHandle": "BCEagles",
+    "espnTeamId": "103",
+    "searchTerms": [
+      "Boston College Eagles",
+      "Eagles",
+      "BC football basketball"
+    ]
+  },
+  {
+    "slug": "acc-cal",
+    "name": "Cal Golden Bears",
+    "shortName": "Cal",
+    "city": "Berkeley",
+    "league": "ACC",
+    "division": "ACC",
+    "primaryColor": "#003262",
+    "secondaryColor": "#FDB515",
+    "accentColor": "#FDB515",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png",
+    "facebookPageId": "",
+    "xHandle": "CalAthletics",
+    "espnTeamId": "25",
+    "searchTerms": [
+      "Cal Golden Bears",
+      "Golden Bears",
+      "Cal football basketball"
+    ]
+  },
+  {
+    "slug": "acc-clemson",
+    "name": "Clemson Tigers",
+    "shortName": "Clemson",
+    "city": "Clemson",
+    "league": "ACC",
+    "division": "ACC",
+    "primaryColor": "#F56600",
+    "secondaryColor": "#522D80",
+    "accentColor": "#F56600",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
+    "facebookPageId": "",
+    "xHandle": "ClemsonAthletics",
+    "espnTeamId": "228",
+    "searchTerms": [
+      "Clemson Tigers",
+      "Tigers",
+      "Clemson football basketball"
+    ]
+  },
+  {
+    "slug": "acc-duke",
+    "name": "Duke Blue Devils",
+    "shortName": "Duke",
+    "city": "Durham",
+    "league": "ACC",
+    "division": "ACC",
+    "primaryColor": "#003087",
+    "secondaryColor": "#FFFFFF",
+    "accentColor": "#003087",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "facebookPageId": "",
+    "xHandle": "DukeAthletics",
+    "espnTeamId": "150",
+    "searchTerms": [
+      "Duke Blue Devils",
+      "Blue Devils",
+      "Duke football basketball"
+    ]
+  },
+  {
+    "slug": "acc-florida-state",
+    "name": "Florida State Seminoles",
+    "shortName": "Florida State",
+    "city": "Tallahassee",
+    "league": "ACC",
+    "division": "ACC",
+    "primaryColor": "#782F40",
+    "secondaryColor": "#CEB888",
+    "accentColor": "#CEB888",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+    "facebookPageId": "",
+    "xHandle": "FSU_Athletics",
+    "espnTeamId": "52",
+    "searchTerms": [
+      "Florida State Seminoles",
+      "Seminoles",
+      "FSU football basketball"
+    ]
+  },
+  {
+    "slug": "acc-georgia-tech",
+    "name": "Georgia Tech Yellow Jackets",
+    "shortName": "Georgia Tech",
+    "city": "Atlanta",
+    "league": "ACC",
+    "division": "ACC",
+    "primaryColor": "#B3A369",
+    "secondaryColor": "#FFFFFF",
+    "accentColor": "#B3A369",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+    "facebookPageId": "",
+    "xHandle": "GTAthletics",
+    "espnTeamId": "59",
+    "searchTerms": [
+      "Georgia Tech Yellow Jackets",
+      "Yellow Jackets",
+      "Georgia Tech football basketball"
+    ]
+  },
+  {
+    "slug": "acc-louisville",
+    "name": "Louisville Cardinals",
+    "shortName": "Louisville",
+    "city": "Louisville",
+    "league": "ACC",
+    "division": "ACC",
+    "primaryColor": "#AD0000",
+    "secondaryColor": "#000000",
+    "accentColor": "#AD0000",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
+    "facebookPageId": "",
+    "xHandle": "UofLAthletics",
+    "espnTeamId": "97",
+    "searchTerms": [
+      "Louisville Cardinals",
+      "Cardinals",
+      "Louisville football basketball"
+    ]
+  },
+  {
+    "slug": "acc-miami",
+    "name": "Miami Hurricanes",
+    "shortName": "Miami",
+    "city": "Coral Gables",
+    "league": "ACC",
+    "division": "ACC",
+    "primaryColor": "#005030",
+    "secondaryColor": "#F47321",
+    "accentColor": "#F47321",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
+    "facebookPageId": "",
+    "xHandle": "CanesAthletics",
+    "espnTeamId": "2390",
+    "searchTerms": [
+      "Miami Hurricanes",
+      "Canes",
+      "Miami football basketball"
+    ]
+  },
+  {
+    "slug": "acc-nc-state",
+    "name": "NC State Wolfpack",
+    "shortName": "NC State",
+    "city": "Raleigh",
+    "league": "ACC",
+    "division": "ACC",
+    "primaryColor": "#CC0000",
+    "secondaryColor": "#FFFFFF",
+    "accentColor": "#CC0000",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
+    "facebookPageId": "",
+    "xHandle": "PackAthletics",
+    "espnTeamId": "152",
+    "searchTerms": [
+      "NC State Wolfpack",
+      "Wolfpack",
+      "NC State football basketball"
+    ]
+  },
+  {
+    "slug": "acc-north-carolina",
+    "name": "North Carolina Tar Heels",
+    "shortName": "UNC",
+    "city": "Chapel Hill",
+    "league": "ACC",
+    "division": "ACC",
+    "primaryColor": "#4B9CD3",
+    "secondaryColor": "#FFFFFF",
+    "accentColor": "#4B9CD3",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+    "facebookPageId": "",
+    "xHandle": "UNCAthletics",
+    "espnTeamId": "153",
+    "searchTerms": [
+      "North Carolina Tar Heels",
+      "Tar Heels",
+      "UNC football basketball"
+    ]
+  },
+  {
+    "slug": "acc-notre-dame",
+    "name": "Notre Dame Fighting Irish",
+    "shortName": "Notre Dame",
+    "city": "Notre Dame",
+    "league": "ACC",
+    "division": "ACC",
+    "primaryColor": "#0C2340",
+    "secondaryColor": "#AE9142",
+    "accentColor": "#AE9142",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/87.png",
+    "facebookPageId": "",
+    "xHandle": "NDAthletics",
+    "espnTeamId": "87",
+    "searchTerms": [
+      "Notre Dame Fighting Irish",
+      "Fighting Irish",
+      "Notre Dame football basketball"
+    ]
+  },
+  {
+    "slug": "acc-pitt",
+    "name": "Pitt Panthers",
+    "shortName": "Pitt",
+    "city": "Pittsburgh",
+    "league": "ACC",
+    "division": "ACC",
+    "primaryColor": "#003594",
+    "secondaryColor": "#FFB81C",
+    "accentColor": "#FFB81C",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/221.png",
+    "facebookPageId": "",
+    "xHandle": "Pitt_Athletics",
+    "espnTeamId": "221",
+    "searchTerms": [
+      "Pitt Panthers",
+      "Panthers",
+      "Pittsburgh Panthers football basketball"
+    ]
+  },
+  {
+    "slug": "acc-smu",
+    "name": "SMU Mustangs",
+    "shortName": "SMU",
+    "city": "Dallas",
+    "league": "ACC",
+    "division": "ACC",
+    "primaryColor": "#0033A0",
+    "secondaryColor": "#CC0000",
+    "accentColor": "#CC0000",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
+    "facebookPageId": "",
+    "xHandle": "SMUAthletics",
+    "espnTeamId": "2567",
+    "searchTerms": [
+      "SMU Mustangs",
+      "Mustangs",
+      "SMU football basketball"
+    ]
+  },
+  {
+    "slug": "acc-stanford",
+    "name": "Stanford Cardinal",
+    "shortName": "Stanford",
+    "city": "Stanford",
+    "league": "ACC",
+    "division": "ACC",
+    "primaryColor": "#8C1515",
+    "secondaryColor": "#FFFFFF",
+    "accentColor": "#8C1515",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+    "facebookPageId": "",
+    "xHandle": "StanfordAthletics",
+    "espnTeamId": "24",
+    "searchTerms": [
+      "Stanford Cardinal",
+      "Cardinal",
+      "Stanford football basketball"
+    ]
+  },
+  {
+    "slug": "acc-syracuse",
+    "name": "Syracuse Orange",
+    "shortName": "Syracuse",
+    "city": "Syracuse",
+    "league": "ACC",
+    "division": "ACC",
+    "primaryColor": "#F76900",
+    "secondaryColor": "#002147",
+    "accentColor": "#F76900",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
+    "facebookPageId": "",
+    "xHandle": "SyracuseAthletics",
+    "espnTeamId": "183",
+    "searchTerms": [
+      "Syracuse Orange",
+      "Orange",
+      "Syracuse football basketball"
+    ]
+  },
+  {
+    "slug": "acc-virginia",
+    "name": "Virginia Cavaliers",
+    "shortName": "Virginia",
+    "city": "Charlottesville",
+    "league": "ACC",
+    "division": "ACC",
+    "primaryColor": "#232D4B",
+    "secondaryColor": "#F84C1E",
+    "accentColor": "#F84C1E",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
+    "facebookPageId": "",
+    "xHandle": "UVAAthletics",
+    "espnTeamId": "258",
+    "searchTerms": [
+      "Virginia Cavaliers",
+      "Cavaliers",
+      "UVA football basketball"
+    ]
+  },
+  {
+    "slug": "acc-virginia-tech",
+    "name": "Virginia Tech Hokies",
+    "shortName": "Virginia Tech",
+    "city": "Blacksburg",
+    "league": "ACC",
+    "division": "ACC",
+    "primaryColor": "#630031",
+    "secondaryColor": "#CF4420",
+    "accentColor": "#CF4420",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/259.png",
+    "facebookPageId": "",
+    "xHandle": "HokieAthletics",
+    "espnTeamId": "259",
+    "searchTerms": [
+      "Virginia Tech Hokies",
+      "Hokies",
+      "Virginia Tech football basketball"
+    ]
+  },
+  {
+    "slug": "acc-wake-forest",
+    "name": "Wake Forest Demon Deacons",
+    "shortName": "Wake Forest",
+    "city": "Winston-Salem",
+    "league": "ACC",
+    "division": "ACC",
+    "primaryColor": "#9E7E38",
+    "secondaryColor": "#000000",
+    "accentColor": "#9E7E38",
+    "logoUrl": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
+    "facebookPageId": "",
+    "xHandle": "WakeAthletics",
+    "espnTeamId": "154",
+    "searchTerms": [
+      "Wake Forest Demon Deacons",
+      "Demon Deacons",
+      "Wake Forest football basketball"
+    ]
   }
 ]

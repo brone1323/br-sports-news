@@ -2,13 +2,17 @@ import Link from 'next/link'
 import Image from 'next/image'
 import { getAllTeams, getTeamsByLeague } from '@/lib/teams'
 
-const LEAGUES = ['NHL', 'NFL', 'NBA', 'MLB']
+const LEAGUES = ['NHL', 'NFL', 'NBA', 'MLB', 'Big Ten', 'SEC', 'Big 12', 'ACC']
 
 const LEAGUE_COLORS: Record<string, string> = {
   NHL: '#000000',
   NFL: '#013369',
   NBA: '#C9082A',
   MLB: '#002D72',
+  'Big Ten': '#002D62',
+  SEC: '#003366',
+  'Big 12': '#003087',
+  ACC: '#001A57',
 }
 
 export default function HomePage() {
