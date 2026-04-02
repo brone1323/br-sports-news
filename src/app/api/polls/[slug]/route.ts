@@ -8,6 +8,36 @@ const voteStore = new Map<string, number[]>()
 // In-memory store for weekly AI-generated polls: teamSlug -> GeneratedPoll
 const weeklyPollStore = new Map<string, GeneratedPoll>()
 
+/**
+ * Generates a seeded bot vote distribution for a new poll.
+ * One option gets a plurality (~40-60%), others share the remainder.
+ * Total votes land in the 80-400 range to simulate organic fan engagement.
+ */
+function seedBotVotes(numOptions: number): number[] {
+  const total = 80 + Math.floor(Math.random() * 321) // 80–400
+  const votes = new Array(numOptions).fill(0)
+
+  // Pick a random leading option and give it 40-60% of votes
+  const leaderIdx = Math.floor(Math.random() * numOptions)
+  const leaderShare = 0.4 + Math.random() * 0.2
+  votes[leaderIdx] = Math.round(total * leaderShare)
+
+  // Distribute remainder randomly among the other options
+  const others = Array.from({ length: numOptions }, (_, i) => i).filter(i => i !== leaderIdx)
+  let remaining = total - votes[leaderIdx]
+  for (let j = 0; j < others.length; j++) {
+    if (j === others.length - 1) {
+      votes[others[j]] = remaining
+    } else {
+      const share = Math.floor(Math.random() * remaining * 0.6)
+      votes[others[j]] = share
+      remaining -= share
+    }
+  }
+
+  return votes
+}
+
 function getStaticPollDefinitions(slug: string, teamName: string, shortName: string) {
   return [
     {
@@ -41,14 +71,20 @@ export async function GET(
 
   const staticDefs = getStaticPollDefinitions(slug, team.name, team.shortName)
   const polls = staticDefs.map((poll) => {
-    const votes = voteStore.get(poll.id) ?? new Array(poll.options.length).fill(0)
+    if (!voteStore.has(poll.id)) {
+      voteStore.set(poll.id, seedBotVotes(poll.options.length))
+    }
+    const votes = voteStore.get(poll.id)!
     return { ...poll, votes }
   })
 
   // Prepend the weekly AI-generated poll if available
   const weekly = weeklyPollStore.get(slug)
   if (weekly) {
-    const votes = voteStore.get(weekly.id) ?? new Array(weekly.options.length).fill(0)
+    if (!voteStore.has(weekly.id)) {
+      voteStore.set(weekly.id, seedBotVotes(weekly.options.length))
+    }
+    const votes = voteStore.get(weekly.id)!
     polls.unshift({ ...weekly, votes })
   }
 
@@ -114,7 +150,7 @@ export async function POST(
   }
 
   if (!voteStore.has(pollId)) {
-    voteStore.set(pollId, new Array(poll.options.length).fill(0))
+    voteStore.set(pollId, seedBotVotes(poll.options.length))
   }
   const votes = voteStore.get(pollId)!
   votes[optionIndex]++
