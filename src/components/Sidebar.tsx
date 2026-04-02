@@ -49,7 +49,7 @@ export default function Sidebar({ team }: SidebarProps) {
           className="px-4 py-3 text-white text-sm font-bold uppercase tracking-wide"
           style={{ backgroundColor: team.primaryColor }}
         >
-          Today&apos;s Poll
+          Fan Poll
         </div>
         <PollWidget slug={team.slug} primaryColor={team.primaryColor} />
       </div>

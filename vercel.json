@@ -2,6 +2,7 @@
   "framework": "nextjs",
   "crons": [
     { "path": "/api/facebook/cron", "schedule": "0 12 * * *" },
-    { "path": "/api/hot-takes/cron", "schedule": "0 5 * * *" }
+    { "path": "/api/hot-takes/cron", "schedule": "0 5 * * *" },
+    { "path": "/api/polls/cron", "schedule": "0 9 * * 1" }
   ]
 }
